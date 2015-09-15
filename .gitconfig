@@ -1,0 +1,9 @@
+[color]
+	ui = auto
+[user]
+	email = albert.serven@est.fib.upc.edu
+	name = Albert
+[credential]
+	helper = cache
+[diff]
+	submodule = log
