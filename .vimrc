@@ -1,45 +1,47 @@
 syntax enable
 
-set number
+set autoread
+
+
+set so=3
+set ruler
+set cmdheight=2
+
+
+set backspace=eol,start,indent
+
+set ignorecase
+
+set smartcase
 set hlsearch
-set tabstop=4
-set shiftwidth=4
+set incsearch
+
+set magic
+set showmatch
+
+set encoding=utf8
 
 set expandtab
 set smarttab
-set autoindent
-set smartindent
+set shiftwidth=4
+set tabstop=4
+
+set lbr
+set tw=120
+
+set ai
+set si
 set wrap
 
-"colorscheme darkblue
-"set background=light
+set number
 
-"let g:molokai_original = 1
-"let g:rehash256 = 1
-"colorscheme monokai
+set laststatus=2
+set statusline=\ %{HasPaste()}%F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ %l
 
-"function! ClangCheckImpl(cmd)
-"    if &autowrite | wall | endif
-"    echo 'Running ' . a:cmd . ' ...'
-"    let l:output = system(a:cmd)
-"    cexpr l:output
-"    cwindow
-"    let w:quickfix_title = a:cmd
-"    if v:shell_error != 0
-"        cc
-"    endif
-"    let g:clang_check_last_cmd = a:cmd
-"endfunction
-"
-"function ClangCheck()
-"    let l:filename = expand('%')
-"    if l:filename =~ '\.\(cpp\|cxx\|cc\|c\)$'
-"        call ClangCheckImpl("clang-check " . l:filename)
-"    elseif exists("g:clang_check_last_cmd")
-"        call ClangCheckImpl(g:clang_check_last_cmd)
-"    else
-"        echo 'Can't detect file's compilation arguments and no previous clang-check invocation!'
-"    endif
-"endfunction
-"
-"nmap <silent> <F5> : call ClangCheck()<CR><CR>
+function! HasPaste()
+    if &paste
+        return 'PASTE MODE  '
+    endif
+    return ''
+endfunction
+
