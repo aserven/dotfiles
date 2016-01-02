@@ -78,7 +78,7 @@ TEXT
 {"full_text":"${else}"},\
 {"full_text":"${if_match ${battery_percent BAT0}>45}  ${battery_percent BAT0}% ","color":"\#FF9933","separator":false,"separator_block_width":6},\
 {"full_text":"${else}"},\
-{"full_text":"${if_match ${battery_percent BAT0}>=15}  ${battery_percent BAT0}% ","color":"\#FF3333","separator":false,"separator_block_width":6},\
+{"full_text":"  ${battery_percent BAT0}% ","color":"\#FF3333","separator":false,"separator_block_width":6},\
 {"full_text":"${endif}${endif}${endif}${endif}"},\
 
 #Finds current volume. May need modified depending on your setup
