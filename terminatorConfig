@@ -1,0 +1,21 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+    background_darkness = 0.9
+    audible_bell = True
+    background_type = transparent
+    scrollback_infinite = True
+    cursor_color = "#ff0000"
+    show_titlebar = false
+    scrollbar_position = disabled
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = ""
+      size = 900, 600
+[plugins]
