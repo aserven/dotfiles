@@ -1,0 +1,9 @@
+2016/06/27-08:15:20.348 2087 Reusing MANIFEST /home/bellahora-04/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/06/27-08:15:20.826 2087 Current memtable full; waiting...
+2016/06/27-08:15:20.826 4767 Level-0 table #5: started
+2016/06/27-08:15:20.842 4767 Level-0 table #5: 620 bytes OK
+2016/06/27-08:15:20.846 4767 Delete type=0 #3
+2016/06/27-08:15:20.846 4767 Level-0 table #7: started
+2016/06/27-08:15:20.847 4767 Level-0 table #7: 0 bytes OK
+2016/06/27-08:15:20.850 4767 Delete type=0 #4
+2016/06/27-08:15:20.850 4767 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

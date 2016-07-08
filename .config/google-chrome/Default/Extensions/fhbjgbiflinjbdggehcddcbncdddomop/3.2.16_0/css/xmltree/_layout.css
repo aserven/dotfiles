@@ -1,0 +1,126 @@
+.xv-source-pane {
+	float: left;
+	width:68%;
+	overflow: auto;
+}
+
+.xv-source-pane-inner , .jv-source-pane-inner {
+	position: relative;
+	padding: 10px;
+	padding-left: 0;
+}
+
+.xv-source-xml {
+	display: none;
+}
+
+#xv-source-data {
+	display: none;
+}
+
+.xv-error {
+	position: absolute;
+	left:50%;
+	top:100px;
+	width:30em;
+	padding: 20px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #ccc;
+	margin-left:-15em;
+	font-size: 15px;
+	color:#c00;
+	line-height: 1.5;
+	-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	-moz-box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	-ms-box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.xv-error h2 {
+	font-size: 20px;
+	margin-bottom: 1em;
+}
+
+.xv-error-state .xv-source-pane,
+.xv-error-state .xv-search-panel {
+	display: none;
+}
+
+.xv-drag-image {
+	position: absolute;
+	left: 0px;
+	top:0;
+	z-index: 1;
+}
+
+.xv-dnd-tooltip {
+	padding: 2px 5px 3px 5px;
+	color: #fff;
+	font-family: "Lucida Grande", sans-serif;
+	position: absolute;
+	display: inline-block;
+	font-size: 11px !important;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background: #000;
+	opacity: 0.8;
+	z-index:1;
+	white-space: nowrap;
+	top:-2em;
+	left:0;
+	text-shadow: none !important;
+}
+
+.xv-dnd-tooltip:after {
+	display: inline-block;
+	content: '.';
+	text-indent: -2em;
+	overflow: hidden;
+	position: absolute;
+	width:6px;
+	height: 6px;
+	top:100%;
+	left:10px;
+	margin-top:-3px;
+	background: #000;
+	z-index: -1;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+}
+
+.xv-dnd-tooltip-hidden {
+	visibility: hidden;
+}
+
+.xv-draggable {
+	-webkit-user-drag:element;
+}
+
+.xv-options-href {
+	position:absolute;
+	right:10px;
+	top:50%;
+	margin-top:-0.6em;
+	line-height:1.2;
+	font-size:10px;
+	color:#777;
+	text-shadow:0 1px 0 #fff;
+}
+
+.xv-wrap {
+    white-space: normal !important;
+}
+
+.xv-text,.xv_attr {
+    white-space: nowrap;
+}
+
+.xv-wrap.xv-attr {
+    padding-right:2px;
+    padding-left:2px;
+}

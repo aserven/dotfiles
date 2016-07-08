@@ -1,0 +1,68 @@
+<monitors version="1">
+  <configuration>
+    <clone>no</clone>
+    <output name="HDMI1">
+      <vendor>DEL</vendor>
+      <product>DELL P2210</product>
+      <serial>W416K03K0FPM</serial>
+      <width>1680</width>
+      <height>1050</height>
+      <rate>59.883251190185547</rate>
+      <x>1050</x>
+      <y>240</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+    </output>
+    <output name="VGA1">
+      <vendor>DEL</vendor>
+      <product>DELL P2210</product>
+      <serial>W416K04F20CS</serial>
+      <width>1050</width>
+      <height>1680</height>
+      <rate>59.954250335693359</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>left</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="HDMI1">
+      <vendor>DEL</vendor>
+      <product>DELL P2210</product>
+      <serial>W416K03K0FPM</serial>
+      <width>1680</width>
+      <height>1050</height>
+      <rate>59.883251190185547</rate>
+      <x>1680</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+    </output>
+    <output name="VGA1">
+      <vendor>HKC</vendor>
+      <product>0x2160</product>
+      <serial>0x00000001</serial>
+      <width>1680</width>
+      <height>1050</height>
+      <rate>59.954250335693359</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>no</primary>
+      <presentation>no</presentation>
+    </output>
+  </configuration>
+</monitors>

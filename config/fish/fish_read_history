@@ -1,0 +1,6 @@
+- cmd: function nvm\nbass source ~/.nvm/nvm.sh --no-use ';' nvm $argv\nend
+  when: 1462792805
+- cmd: function nvm\nend
+  when: 1462860528
+- cmd: function nvm\nbass source ~/.nvm/nvm.sh --no-use ';' nvm $argv\nend
+  when: 1462860558

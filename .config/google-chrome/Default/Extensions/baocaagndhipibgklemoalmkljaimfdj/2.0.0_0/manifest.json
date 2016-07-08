@@ -1,0 +1,32 @@
+{
+   "author": "Felix Niklas",
+   "background": {
+      "persistent": false,
+      "scripts": [ "chrome.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon.png",
+         "38": "images/icon@2x.png"
+      },
+      "default_title": "Measure Dimensions"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Alt+D"
+         }
+      }
+   },
+   "description": "A tool for designers to measure screen dimensions",
+   "icons": {
+      "128": "images/icon128.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzchJpm92lToPQIrLWZWYaQXpAI4zt5mITrMeBg0ivJkxW252ImIrtLm5iVEoFN1EVG9m2OFyVOfrtMXfroy3PqjAmre6bntSgQRcYlTwvNoPvwrdpLn3ACirGthqp9sWGihDfWv2B1OJnp5kZc/KBPTC8nrj/6nTH3BaJ2s/4JEeTkTfWx5YkXEb69mPtLgRFZs4TaF381wvSdY/KBbZYvCrBGqj0uQ8qARx8KC2uY9pnWleSOpbEpAxU7KzXJ8c+bj64tVsliOenjbaRPhJBIxXQ/iZxGqsLsdOmLAkY0/CGRvS0Th/bD+oB46InmIxgFzm55gvcBt3yQfU30MlQQIDAQAB",
+   "manifest_version": 2,
+   "name": "Dimensions",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.0"
+}

@@ -1,0 +1,2147 @@
+2016-06-29T09:24:22.936Z - info: Window is unloading, winssb is no longer accessible
+2016-06-29T09:24:23.085Z - info: Window is unloading, winssb is no longer accessible
+2016-06-29T09:24:37.416Z - info: Window is unloading, winssb is no longer accessible
+2016-06-29T09:24:38.398Z - info: Window is unloading, winssb is no longer accessible
+2016-06-29T09:24:41.224Z - info: ADD_NEW_TEAM : {
+  "id": "U0NL30SRL",
+  "name": "albertserven",
+  "team_id": "T0JJT3CN9",
+  "team_name": "Bellahora",
+  "team_url": "https://bellahora.slack.com/"
+}
+2016-06-29T09:24:41.230Z - info: SET_LOGIN_DIALOG 
+2016-07-01T06:02:07.077Z - info: UPDATE_TEAM_ICONS : {
+  "icons": false,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T06:02:07.107Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#544538",
+    "menu_bg": "#42362B",
+    "active_item": "#5DB09D",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#4A3C30",
+    "text_color": "#FFFFFF",
+    "active_presence": "#FFFFFF",
+    "badge": "#5DB09D"
+  },
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T06:02:07.581Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T06:02:07.583Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T06:02:08.477Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T06:05:42.382Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T08:16:03.186Z - info: UPDATE_TEAM_ICONS : {
+  "icons": false,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T08:45:14.919Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T08:49:08.226Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T08:52:44.538Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T08:55:56.371Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T08:57:05.847Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T08:57:06.706Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T08:57:06.965Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T09:18:01.086Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T09:54:20.317Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T09:54:20.348Z - info: NEW_NOTIFICATION : {
+  "id": "395b1244-8ae6-4310-afa9-c0970b2e200e",
+  "launchUri": "slack://channel?id=C125GJSE7&message=1467366859.000002&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C125GJSE7",
+  "msg": "1467366859.000002",
+  "avatarImage": null,
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T09:54:56.631Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T10:02:20.884Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T10:15:59.030Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T10:16:24.708Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T10:31:12.996Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T11:40:01.872Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-01T11:49:21.772Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:03:31.492Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#544538",
+    "menu_bg": "#42362B",
+    "active_item": "#5DB09D",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#4A3C30",
+    "text_color": "#FFFFFF",
+    "active_presence": "#FFFFFF",
+    "badge": "#5DB09D"
+  },
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:03:32.413Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:03:32.882Z - info: UPDATE_TEAM_ICONS : {
+  "icons": false,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:03:34.335Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:03:34.420Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 4,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:03:35.185Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 4,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:03:44.767Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:03:53.527Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:22:07.239Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:37:46.484Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:40:14.793Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:40:41.267Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:40:42.358Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:41:11.805Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:41:56.316Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:42:49.579Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:43:58.663Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T06:44:59.594Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:02:38.599Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:17:21.851Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:20:20.118Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:20:35.046Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:23:37.752Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:24:42.607Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:25:04.345Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:26:50.659Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:28:03.334Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:33:26.949Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:33:27.027Z - info: NEW_NOTIFICATION : {
+  "id": "5ee3b6e4-6282-4d45-9d64-d08c04729fe4",
+  "launchUri": "slack://channel?id=C19PJUCPM&message=1467617606.000002&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C19PJUCPM",
+  "msg": "1467617606.000002",
+  "avatarImage": "https://secure.gravatar.com/avatar/98fa187e3d806c410e041f381fb7c37e.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0017-512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:35:06.826Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:37:38.429Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:37:43.340Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:37:43.525Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:46:08.573Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:46:08.840Z - info: NEW_NOTIFICATION : {
+  "id": "5b8dca4b-751c-43df-b0bc-16c7f2cf52e1",
+  "launchUri": "slack://channel?id=C19PJUCPM&message=1467618368.000005&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C19PJUCPM",
+  "msg": "1467618368.000005",
+  "avatarImage": null,
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:46:21.575Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:47:48.347Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:50:22.642Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:51:20.446Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:51:20.680Z - info: NEW_NOTIFICATION : {
+  "id": "bf31958b-a6e2-48b7-b925-6ddb24f7a231",
+  "launchUri": "slack://channel?id=C19PJUCPM&message=1467618680.000006&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C19PJUCPM",
+  "msg": "1467618680.000006",
+  "avatarImage": null,
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:51:26.234Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:51:53.385Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:58:06.836Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:58:07.067Z - info: NEW_NOTIFICATION : {
+  "id": "8a902e43-5fe4-489e-abb2-04e2237b0fe2",
+  "launchUri": "slack://channel?id=C19PJUCPM&message=1467619086.000007&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C19PJUCPM",
+  "msg": "1467619086.000007",
+  "avatarImage": "https://secure.gravatar.com/avatar/98fa187e3d806c410e041f381fb7c37e.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0017-512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T07:58:40.630Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:05:08.897Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:05:10.016Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:05:39.192Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:05:58.308Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:05:59.832Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:06:31.122Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:06:31.233Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:07:26.144Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:07:28.625Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:07:40.336Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:07:58.357Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:07:59.699Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:11:18.356Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:11:23.492Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:11:23.781Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:14:09.454Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:14:38.768Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:15:21.786Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:15:22.316Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:24:58.286Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:24:58.857Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:28:03.790Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:31:46.152Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:31:46.175Z - info: NEW_NOTIFICATION : {
+  "id": "6b0e44e0-e55c-4276-b6b4-32f580ed9886",
+  "launchUri": "slack://channel?id=C0JJXBFD4&message=1467621105.000002&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C0JJXBFD4",
+  "msg": "1467621105.000002",
+  "avatarImage": "https://secure.gravatar.com/avatar/2ce8c688888e47d9b0eb5eb1b12f5312.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0013-512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:32:24.335Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:32:25.655Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:34:45.239Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:34:45.248Z - info: NEW_NOTIFICATION : {
+  "id": "63e42fa8-bfe3-4c36-a32c-85fe5ff47e7e",
+  "launchUri": "slack://channel?id=C0JJXBFD4&message=1467621284.000004&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C0JJXBFD4",
+  "msg": "1467621284.000004",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:34:59.115Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T08:44:49.512Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T09:38:43.731Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T10:48:52.908Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T10:50:15.117Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T11:40:01.085Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T11:40:01.432Z - info: NEW_NOTIFICATION : {
+  "id": "eaf9afd5-f8b9-4fe6-95d6-2d3ae1ede805",
+  "launchUri": "slack://channel?id=C0JJXBFD4&message=1467632400.000005&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C0JJXBFD4",
+  "msg": "1467632400.000005",
+  "avatarImage": "https://a.slack-edge.com/7fa9/img/slackbot_512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T12:21:02.776Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T12:51:36.165Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T13:13:48.505Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T13:14:11.783Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-04T13:35:02.245Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T06:03:04.240Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#544538",
+    "menu_bg": "#42362B",
+    "active_item": "#5DB09D",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#4A3C30",
+    "text_color": "#FFFFFF",
+    "active_presence": "#FFFFFF",
+    "badge": "#5DB09D"
+  },
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T06:03:04.825Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T06:03:05.119Z - info: UPDATE_TEAM_ICONS : {
+  "icons": false,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T06:03:05.644Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T06:05:36.894Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T07:35:08.253Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T08:07:37.701Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T10:40:01.619Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T10:40:59.963Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T10:42:20.428Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T10:42:52.955Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T10:46:00.161Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:01:30.556Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:01:31.210Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:02:34.627Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:03:03.946Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:04:09.443Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:05:05.858Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:05:07.176Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:05:11.791Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:09:23.938Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:09:25.449Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:09:31.801Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:09:32.176Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:40:01.059Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T11:40:01.077Z - info: NEW_NOTIFICATION : {
+  "id": "5af50ad9-b129-4251-ae53-73029f71a869",
+  "launchUri": "slack://channel?id=C0JJXBFD4&message=1467718800.000002&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C0JJXBFD4",
+  "msg": "1467718800.000002",
+  "avatarImage": "https://a.slack-edge.com/7fa9/img/slackbot_512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T12:10:05.794Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T12:11:20.814Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T12:33:21.889Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-05T13:29:49.703Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T06:11:42.873Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#544538",
+    "menu_bg": "#42362B",
+    "active_item": "#5DB09D",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#4A3C30",
+    "text_color": "#FFFFFF",
+    "active_presence": "#FFFFFF",
+    "badge": "#5DB09D"
+  },
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T06:11:43.455Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T06:11:43.701Z - info: UPDATE_TEAM_ICONS : {
+  "icons": false,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T06:11:44.196Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T06:11:44.198Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T06:11:45.385Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 4,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T06:13:16.257Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T06:13:30.725Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T07:08:20.350Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T07:08:20.369Z - info: NEW_NOTIFICATION : {
+  "id": "99b9e018-876c-4d9e-88be-63fbeacf3ecd",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467788900.000006&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467788900.000006",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T07:11:26.095Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T07:11:26.098Z - info: NEW_NOTIFICATION : {
+  "id": "e4f141b9-076b-4f86-8401-67fc1783cb4c",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467789085.000007&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467789085.000007",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T07:42:52.257Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T07:57:53.190Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T07:57:53.316Z - info: NEW_NOTIFICATION : {
+  "id": "a5adce7e-41b9-4109-9b97-e2c175148351",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467791872.000008&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467791872.000008",
+  "avatarImage": "https://secure.gravatar.com/avatar/2ce8c688888e47d9b0eb5eb1b12f5312.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0013-512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T07:58:40.090Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T07:58:40.100Z - info: NEW_NOTIFICATION : {
+  "id": "4c709eb6-0a81-432b-855b-9a8afd1f6c11",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467791919.000009&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467791919.000009",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T08:39:58.422Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 3,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T08:39:58.426Z - info: NEW_NOTIFICATION : {
+  "id": "af5fd2e2-230a-4ade-9f27-624fe75c1ebd",
+  "launchUri": "slack://channel?id=C0QB02L3S&message=1467794398.000002&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C0QB02L3S",
+  "msg": "1467794398.000002",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T08:42:25.233Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 4,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T08:42:25.237Z - info: NEW_NOTIFICATION : {
+  "id": "2630fd2b-7cf5-4612-a8b3-71f1f433539a",
+  "launchUri": "slack://channel?id=C0QB02L3S&message=1467794544.000003&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C0QB02L3S",
+  "msg": "1467794544.000003",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T08:50:45.623Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T08:50:47.300Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:04:07.955Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:04:08.097Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:04:17.995Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:04:18.135Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:04:18.230Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:04:18.463Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:04:19.533Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:04:19.676Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:04:34.825Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:04:34.973Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:04:59.602Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T09:05:01.635Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:05:01.788Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:05:01.868Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T09:05:08.605Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:05:08.749Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:05:38.063Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T09:05:52.012Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T09:06:04.470Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:06:04.623Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:06:34.368Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:06:34.519Z - info: NEW_NOTIFICATION : {
+  "id": "45b7855f-1876-4fba-ab7b-1838e0f76390",
+  "launchUri": "slack://channel?id=D0NL2KA3C&message=1467795994.000017&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NL2KA3C",
+  "msg": "1467795994.000017",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:06:34.852Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:06:36.647Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:06:36.795Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:06:42.211Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:06:42.406Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:06:43.901Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:06:44.052Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:01.589Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:01.592Z - info: NEW_NOTIFICATION : {
+  "id": "183d220c-2001-42f2-93a9-0a35baa5dd5a",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797701.000010&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797701.000010",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:08.098Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:08.099Z - info: NEW_NOTIFICATION : {
+  "id": "88936484-ad6d-4012-8943-fa4370bc55dc",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797707.000011&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797707.000011",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:17.379Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 3,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:17.380Z - info: NEW_NOTIFICATION : {
+  "id": "97d123b6-10d4-4e1a-91f2-ab6d5a7f98d7",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797717.000012&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797717.000012",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:32.563Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 4,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:32.564Z - info: NEW_NOTIFICATION : {
+  "id": "a073c524-4cac-43cd-bed2-3c08ba735d24",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797732.000013&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797732.000013",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:46.294Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:53.634Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:53.813Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:56.318Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:35:56.449Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:02.935Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:03.065Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:09.030Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:09.161Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:09.580Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:09.762Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:26.456Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:26.594Z - info: NEW_NOTIFICATION : {
+  "id": "d05dd19b-9f85-453a-875d-55d653c5b7d3",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797786.000019&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797786.000019",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:28.221Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:28.227Z - info: NEW_NOTIFICATION : {
+  "id": "d8e0fdd0-2eca-4123-9e3c-3b9f714898e1",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797787.000020&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797787.000020",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:33.937Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 3,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:33.944Z - info: NEW_NOTIFICATION : {
+  "id": "8a0d85c7-28c8-479e-b530-0266e774ece4",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797793.000021&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797793.000021",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:36.385Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:47.094Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:47.232Z - info: NEW_NOTIFICATION : {
+  "id": "4f984b1d-7b3f-4b94-b37e-069ac8948fe2",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797806.000022&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797806.000022",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:53.601Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:36:53.608Z - info: NEW_NOTIFICATION : {
+  "id": "28d5424c-8794-4fca-9622-eb181135be19",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797813.000023&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797813.000023",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:37:18.369Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 3,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:37:18.380Z - info: NEW_NOTIFICATION : {
+  "id": "0edecc5d-2673-4f69-9513-3bc7dcab43fd",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797837.000024&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797837.000024",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:37:54.521Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 4,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:37:54.530Z - info: NEW_NOTIFICATION : {
+  "id": "d4658a38-46bf-466c-80a5-da7a48c3475b",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797874.000025&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797874.000025",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:38:21.201Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 5,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:38:21.208Z - info: NEW_NOTIFICATION : {
+  "id": "147bc796-9c51-4ad5-ad4f-78334e4b3222",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797900.000026&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797900.000026",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:39:00.565Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 6,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:39:00.573Z - info: NEW_NOTIFICATION : {
+  "id": "d29bf74f-f6cf-465b-b885-d4a0625732ee",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797940.000027&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797940.000027",
+  "avatarImage": "https://secure.gravatar.com/avatar/2ce8c688888e47d9b0eb5eb1b12f5312.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0013-512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:39:13.880Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 7,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:39:13.886Z - info: NEW_NOTIFICATION : {
+  "id": "d8fe4f60-0797-42e4-ab44-06df557de9dc",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797953.000028&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797953.000028",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:39:48.262Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 8,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:39:48.272Z - info: NEW_NOTIFICATION : {
+  "id": "4ddf3131-069a-4c79-bac4-7764e4d76d86",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467797987.000029&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467797987.000029",
+  "avatarImage": "https://secure.gravatar.com/avatar/2ce8c688888e47d9b0eb5eb1b12f5312.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0013-512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:40:01.395Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 8,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:40:17.758Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 9,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T09:40:17.767Z - info: NEW_NOTIFICATION : {
+  "id": "2d8a3c3f-d3f4-4457-b93a-d04bcc2f7edf",
+  "launchUri": "slack://channel?id=G0NSK8X50&message=1467798017.000030&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "G0NSK8X50",
+  "msg": "1467798017.000030",
+  "avatarImage": "https://secure.gravatar.com/avatar/2ce8c688888e47d9b0eb5eb1b12f5312.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0013-512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:00:04.765Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:39:28.526Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:42:57.170Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T10:42:58.719Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T10:44:08.818Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:44:08.970Z - info: NEW_NOTIFICATION : {
+  "id": "ebfe25cc-c893-4eac-9960-c7249aea67c3",
+  "launchUri": "slack://channel?id=D0NL2KA3C&message=1467801848.000025&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NL2KA3C",
+  "msg": "1467801848.000025",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:44:47.242Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:44:47.252Z - info: NEW_NOTIFICATION : {
+  "id": "2ce8bd79-d76f-4e1f-aed9-7c498bbac0b8",
+  "launchUri": "slack://channel?id=D0NL2KA3C&message=1467801887.000026&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NL2KA3C",
+  "msg": "1467801887.000026",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:44:58.763Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:45:45.609Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T10:46:19.417Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T10:46:25.422Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:46:25.583Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:46:39.733Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:46:39.900Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:46:45.847Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:47:08.582Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:47:08.740Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:47:10.938Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T10:47:11.174Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T10:47:57.102Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:47:58.361Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:47:58.523Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:48:37.901Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:48:38.100Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:48:48.737Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:48:48.895Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:49:30.408Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:49:30.569Z - info: NEW_NOTIFICATION : {
+  "id": "23abdabb-85ff-494f-a4bd-abbfaab0aa0d",
+  "launchUri": "slack://channel?id=D0NL2KA3C&message=1467802169.000041&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NL2KA3C",
+  "msg": "1467802169.000041",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:50:24.170Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:57:14.768Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T10:57:14.929Z - info: NEW_NOTIFICATION : {
+  "id": "e7b98596-bb9e-43da-921e-fa6dffdeefd6",
+  "launchUri": "slack://channel?id=D0NL2KA3C&message=1467802634.000043&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NL2KA3C",
+  "msg": "1467802634.000043",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:06:21.166Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:06:21.168Z - info: NEW_NOTIFICATION : {
+  "id": "1678c1ab-f0bf-4376-9f9a-406566c1de1c",
+  "launchUri": "slack://channel?id=C125GJSE7&message=1467803180.000002&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C125GJSE7",
+  "msg": "1467803180.000002",
+  "avatarImage": null,
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:07:32.563Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:07:34.232Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:08:53.071Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:08:53.312Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:10:45.391Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:11:42.784Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:11:42.956Z - info: NEW_NOTIFICATION : {
+  "id": "e829fad2-c4ce-48e4-b240-79857385eb5d",
+  "launchUri": "slack://channel?id=C125GJSE7&message=1467803502.000004&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C125GJSE7",
+  "msg": "1467803502.000004",
+  "avatarImage": null,
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:19:20.062Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:19:26.112Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:21:16.720Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:40:01.111Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T11:40:01.114Z - info: NEW_NOTIFICATION : {
+  "id": "07076dc1-3c81-4f53-95ce-a758d7709baa",
+  "launchUri": "slack://channel?id=C0JJXBFD4&message=1467805200.000002&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C0JJXBFD4",
+  "msg": "1467805200.000002",
+  "avatarImage": "https://a.slack-edge.com/725b/img/slackbot_512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T13:09:06.765Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T13:13:09.124Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T13:13:09.127Z - info: NEW_NOTIFICATION : {
+  "id": "affd0ea3-9e7c-4f89-8a59-defe87342a86",
+  "launchUri": "slack://channel?id=D0NQ5ASBB&message=1467810788.000002&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NQ5ASBB",
+  "msg": "1467810788.000002",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T13:13:28.006Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T13:17:01.780Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T13:17:01.980Z - info: NEW_NOTIFICATION : {
+  "id": "5a5e9cf0-88bd-4769-970d-9dd5ff735d0d",
+  "launchUri": "slack://channel?id=D0NQ5ASBB&message=1467811021.000003&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NQ5ASBB",
+  "msg": "1467811021.000003",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-25/23057262342_e7bcf48bd652f892817d_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T13:17:05.840Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T13:42:29.143Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T13:42:29.314Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:05:38.686Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:05:38.859Z - info: NEW_NOTIFICATION : {
+  "id": "227ee371-6202-49e6-b4a0-2575bd2d97a5",
+  "launchUri": "slack://channel?id=C125GJSE7&message=1467813938.000006&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C125GJSE7",
+  "msg": "1467813938.000006",
+  "avatarImage": null,
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:06:10.073Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:10:39.748Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:10:40.006Z - info: NEW_NOTIFICATION : {
+  "id": "2be7de33-f5d1-47e8-85d3-1c4aa483fed5",
+  "launchUri": "slack://channel?id=C125GJSE7&message=1467814239.000007&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C125GJSE7",
+  "msg": "1467814239.000007",
+  "avatarImage": null,
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:35:31.954Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:36:25.112Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T14:36:30.154Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T14:37:06.313Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T14:37:13.881Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T14:40:22.789Z - info: Too many spelling errors, falling back to content: en_AU
+2016-07-06T14:40:24.129Z - info: Too many spelling errors, falling back to content: en_AU
+2016-07-06T14:40:29.072Z - info: Too many spelling errors, falling back to content: en_AU
+2016-07-06T14:40:30.305Z - info: Too many spelling errors, falling back to content: en_AU
+2016-07-06T14:40:33.984Z - info: Too many spelling errors, falling back to content: en_AU
+2016-07-06T14:41:16.801Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T14:41:53.071Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T14:41:53.312Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T14:42:37.042Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:42:37.226Z - info: NEW_NOTIFICATION : {
+  "id": "0ae57386-3519-45ef-bd63-5986e7b8358c",
+  "launchUri": "slack://channel?id=D0NL2KA3C&message=1467816156.000052&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NL2KA3C",
+  "msg": "1467816156.000052",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:42:46.507Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:42:46.531Z - info: NEW_NOTIFICATION : {
+  "id": "e6a1f98b-5777-49e6-aafd-9819d5be06be",
+  "launchUri": "slack://channel?id=D0NL2KA3C&message=1467816166.000053&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NL2KA3C",
+  "msg": "1467816166.000053",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:42:57.873Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 3,
+  "unreadHighlights": 3,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:42:57.913Z - info: NEW_NOTIFICATION : {
+  "id": "b93fba43-7f2d-4cc3-91f5-c29bc94c7a09",
+  "launchUri": "slack://channel?id=D0NL2KA3C&message=1467816177.000054&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NL2KA3C",
+  "msg": "1467816177.000054",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:43:54.129Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 4,
+  "unreadHighlights": 4,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:43:54.175Z - info: NEW_NOTIFICATION : {
+  "id": "70a1cf47-1a8d-42ae-b331-d9d412aeea08",
+  "launchUri": "slack://channel?id=D0NL2KA3C&message=1467816233.000055&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NL2KA3C",
+  "msg": "1467816233.000055",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:43:57.606Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:44:08.536Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:44:08.692Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:45:54.616Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T14:45:56.148Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T14:48:11.748Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:48:11.915Z - info: NEW_NOTIFICATION : {
+  "id": "f24876d6-ce36-4b6e-b5c4-d3a5cb5c73a8",
+  "launchUri": "slack://channel?id=D0NL2KA3C&message=1467816491.000059&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NL2KA3C",
+  "msg": "1467816491.000059",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:48:15.368Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 2,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:48:15.392Z - info: NEW_NOTIFICATION : {
+  "id": "fb074b82-75fd-4577-be82-9a872e0366b8",
+  "launchUri": "slack://channel?id=D0NL2KA3C&message=1467816495.000060&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "D0NL2KA3C",
+  "msg": "1467816495.000060",
+  "avatarImage": "https://avatars.slack-edge.com/2016-02-24/22832381331_2df82598627546baa0af_512.jpg",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:50:52.153Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-06T14:51:07.833Z - info: Too many spelling errors, falling back to content: es
+2016-07-06T14:51:08.442Z - info: Too many spelling errors, falling back to content: es
+2016-07-08T05:58:55.309Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#544538",
+    "menu_bg": "#42362B",
+    "active_item": "#5DB09D",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#4A3C30",
+    "text_color": "#FFFFFF",
+    "active_presence": "#FFFFFF",
+    "badge": "#5DB09D"
+  },
+  "teamId": "T0JJT3CN9"
+}
+2016-07-08T05:58:56.308Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-08T05:58:57.000Z - info: UPDATE_TEAM_ICONS : {
+  "icons": false,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-08T05:58:57.927Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-08T05:58:57.931Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-08T05:58:57.972Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 3,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-08T05:58:59.519Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 4,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-08T05:59:00.323Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 3,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-08T05:59:20.876Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-08T05:59:23.935Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-08T05:59:41.412Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-07-08T05:59:41.557Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}

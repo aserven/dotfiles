@@ -1,0 +1,12 @@
+alias lockscreen "~/lock.sh $PWD/Downloads/1453750952_lock.png"
+
+function fish_prompt
+    ~/powerline-shell.py $status --shell bare ^/dev/null
+end
+
+function fish_greeting
+    archey
+    toilet -f mono9 Bellahora -w 200
+    fortune
+    echo ''
+end

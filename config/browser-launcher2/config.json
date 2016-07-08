@@ -1,0 +1,29 @@
+{
+  "browsers": [
+    {
+      "name": "chromium",
+      "re": {},
+      "type": "chrome",
+      "profile": "/home/bellahora-04/.config/browser-launcher2/chromium-44.0.2403.89_54d163d2",
+      "command": "chromium-browser",
+      "version": "44.0.2403.89"
+    },
+    {
+      "name": "firefox",
+      "re": {},
+      "type": "firefox",
+      "profile": true,
+      "command": "firefox",
+      "version": "40.0"
+    },
+    {
+      "name": "opera",
+      "re": {},
+      "type": "opera",
+      "image": "opera.exe",
+      "profile": "/home/bellahora-04/.config/browser-launcher2/opera-31.0.1889.99_dc715696",
+      "command": "opera",
+      "version": "31.0.1889.99"
+    }
+  ]
+}

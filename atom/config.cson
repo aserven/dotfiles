@@ -1,0 +1,85 @@
+"*":
+  "activate-power-mode":
+    autoToggle: false
+    particles:
+      enabled: false
+      size: {}
+      spawnCount: {}
+      totalCount: {}
+    screenShake:
+      enabled: false
+  "atom-beautify":
+    _analyticsUserId: "1ef205f2-16d6-4d8f-8776-fdaab4ada087"
+    general:
+      _analyticsUserId: "657b004f-4865-4703-a75d-1cfe106708a4"
+  "atom-material-ui":
+    colors:
+      abaseColor:
+        red: 25
+        green: 182
+        blue: 145
+        alpha: 1
+    fonts:
+      fontSize: 15
+    tabs:
+      compactTabs: true
+    treeView:
+      compactList: true
+    ui:
+      panelContrast: true
+      panelShadows: true
+  core:
+    autoHideMenuBar: true
+    automaticallyUpdate: false
+    themes: [
+      "atom-material-ui"
+      "monokai"
+    ]
+  editor:
+    fontFamily: "Roboto Mono Thin"
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "388a3f8b-5f48-b26b-0630-f9b611e71ff5"
+  "file-icons": {}
+  fonts:
+    fontFamily: "Roboto Mono Light"
+  gofmt: {}
+  "highlight-column": {}
+  "highlight-line":
+    enableSelectionBorder: true
+    underline: "dashed"
+  linter: {}
+  "linter-jshint": {}
+  minimap:
+    displayMinimapOnLeft: true
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  "omni-ruler":
+    columns: [
+      "80"
+      "100"
+    ]
+  "seti-syntax":
+    themeColor: "Green"
+  "seti-ui":
+    compactView: true
+    fileIcons: false
+    themeColor: "Green"
+  "sync-settings":
+    _analyticsUserId: "df8082e7-c2e6-4860-9f52-34034dcd268e"
+    _lastBackupHash: "fbf4b9f7b782e9fa273c360383932d1a2f0dc93d"
+    gistId: "ba69f1b19ea38487c552c53092f24ed3"
+    personalAccessToken: "9e0e9fff2d120c05ebcd9f17037307a5f65839a5"
+  tabs:
+    usePreviewTabs: true
+  "tree-view":
+    showOnRightSide: true
+    squashDirectoryNames: true
+  welcome:
+    showOnStartup: false

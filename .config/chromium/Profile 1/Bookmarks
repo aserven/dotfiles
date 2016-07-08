@@ -1,0 +1,124 @@
+{
+   "checksum": "c532284275444b48fafed215e715b8c0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13070469724034000",
+            "id": "6",
+            "meta_info": {
+               "stars.id": "ssc_6edf97f5f325ea2b",
+               "stars.imageData": "Cg5mWHZMMUNEbE5RR2pTTRJlCl1odHRwczovL3MzLmFtYXpvbmF3cy5jb20vYmVsbGFob3JhL3Byb2ZpbGVzL2xhY29pZmZ1cmUvd2ViL2ltZy9tYWluLWdhbGxlcnktMTQyMDQ1Mjg1Nzc5Ny5qcGcQkwIYtwEaYwpbaHR0cDovL3QxLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NTM2lCYjRNdlRnTWNqcUxmUktzZmliMnY2Ql91ekswSWdDZkVWT25WMDhxWUc1ZzlTaRCTAhi3ASIfCAEQkwIYtwEgl0FCBhIEAAFwY0oKaW1hZ2UvanBlZw==",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig40M2dJLU1RaWdMbXZHTQ==",
+               "stars.type": "2"
+            },
+            "name": "Reserva cita en los mejores centros de Belleza :: Bellahora",
+            "type": "url",
+            "url": "https://www.bellahora.com/es/"
+         }, {
+            "date_added": "13070535627324000",
+            "id": "7",
+            "meta_info": {
+               "stars.id": "ssc_f40cb971ab10415a",
+               "stars.imageData": "Cg5KanpFZWExZFpIa3JZTRJDCjtodHRwczovL3d3dy5nb29nbGUuY29tL2RyaXZlL2ltYWdlcy9ob21lL2ZpbGVzLWFueXdoZXJlLmpwZxDIBxiFBBpjCltodHRwOi8vdDIuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1J0cDF4cmJDMEVLSnowQkhmZFVTd3Qtd2tWNWJDc2dmcnV5NExHMDBnYS1SLUV5SnJ2ELMCGKQBIhAIARCzAhikAUIGEgSAAAAA",
+               "stars.isSynced": "true",
+               "stars.pageData": "EoQBR2V0IGFjY2VzcyB0byBmaWxlcyBhbnl3aGVyZSB0aHJvdWdoIHNlY3VyZSBjbG91ZCBzdG9yYWdlIGFuZCBmaWxlIGJhY2t1cCBmb3IgeW91ciBwaG90b3MsIHZpZGVvcywgZmlsZXMgYW5kIG1vcmUgd2l0aCBHb29nbGUgRHJpdmUuIg51cW1vNGxVVklsRmxETQ==",
+               "stars.type": "2"
+            },
+            "name": "Google Drive: almacenamiento en la nube, copias de seguridad de fotos, documentos y mucho más",
+            "type": "url",
+            "url": "https://www.google.com/drive/"
+         }, {
+            "date_added": "13071066139847572",
+            "id": "8",
+            "name": "Bellahora :: Espacio privado de Centro Bellahora",
+            "type": "url",
+            "url": "https://bellahora.com/demostracion/login"
+         }, {
+            "date_added": "13073991816614000",
+            "id": "9",
+            "meta_info": {
+               "stars.flags": "5",
+               "stars.id": "ssc_b49694d9a94951a5",
+               "stars.pageData": "Ig43YmpreGhwamNXMWljTQ==",
+               "stars.type": "2"
+            },
+            "name": "Online Image Editor | Pixlr Express | Autodesk Pixlr",
+            "type": "url",
+            "url": "http://apps.pixlr.com/express/"
+         }, {
+            "date_added": "13098356166932365",
+            "id": "10",
+            "name": "Google Ads",
+            "type": "url",
+            "url": "https://adwords.google.com/cm/CampaignMgmt?authuser=0&__u=6490932806&__c=8387138006#r.ONLINE&app=cm"
+         }, {
+            "date_added": "13098356187161365",
+            "id": "11",
+            "name": "Facebook Ads",
+            "type": "url",
+            "url": "https://business.facebook.com/?business_id=929822047092598"
+         }, {
+            "date_added": "13098356202250365",
+            "id": "12",
+            "name": "Google Analytics",
+            "type": "url",
+            "url": "https://www.google.com/analytics/web/?hl=es&pli=1#report/content-engagement-flow/a40539379w69772645p71894479/"
+         }, {
+            "date_added": "13098356225035329",
+            "id": "13",
+            "name": "Unbounce",
+            "type": "url",
+            "url": "https://app.unbounce.com/1525403/pages/dd4f44c6-8d7c-4487-9f4d-fc8c3d5281dd"
+         }, {
+            "date_added": "13098372636783693",
+            "id": "14",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13098805538100896",
+            "id": "15",
+            "name": "Analisis de la competencia",
+            "type": "url",
+            "url": "http://www.tribuemprendedor.com/analisis-de-la-competencia-y-competidores/"
+         }, {
+            "date_added": "13098977861816546",
+            "id": "16",
+            "name": "Facebook Públicos",
+            "sync_transaction_version": "2",
+            "type": "url",
+            "url": "https://business.facebook.com/ads/manager/audiences/manage/?act=929824683759001&pid=p1&business_id=929822047092598"
+         }, {
+            "date_added": "13098977875631298",
+            "id": "17",
+            "name": "Audience Insights - crear audiencias",
+            "type": "url",
+            "url": "https://business.facebook.com/ads/audience_insights/people?act=929824683759001&business_id=929822047092598&age=18-&country=CO-ES-MX-VE&language=1002"
+         } ],
+         "date_added": "13110464637619016",
+         "date_modified": "13098977875631298",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13110464637619025",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "2",
+      "synced": {
+         "children": [  ],
+         "date_added": "13110464637619026",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

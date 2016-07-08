@@ -1,0 +1,141 @@
+2016-06-29T09:24:48.668Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#544538",
+    "menu_bg": "#42362B",
+    "active_item": "#5DB09D",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#4A3C30",
+    "text_color": "#FFFFFF",
+    "active_presence": "#FFFFFF",
+    "badge": "#5DB09D"
+  },
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T09:24:49.544Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T09:24:50.017Z - info: UPDATE_TEAM_ICONS : {
+  "icons": false,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T09:28:56.319Z - info: NEW_NOTIFICATION : {
+  "id": "a460778a-44cc-4335-bce4-3100141de220",
+  "channel": "",
+  "msg": "",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T09:29:10.953Z - info: NEW_NOTIFICATION : {
+  "id": "0f37efa6-6d43-4f02-8357-3e70cbe7ca47",
+  "channel": "",
+  "msg": "",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T09:29:26.350Z - info: UPDATE_SETTINGS : {
+  "launchOnStartup": true
+}
+2016-06-29T09:29:27.559Z - info: UPDATE_SETTINGS : {
+  "launchOnStartup": false
+}
+2016-06-29T10:35:00.528Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T10:41:31.429Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T11:40:01.076Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T11:40:01.096Z - info: NEW_NOTIFICATION : {
+  "id": "478704de-02e3-48fa-a651-74e0996a5384",
+  "launchUri": "slack://channel?id=C0JJXBFD4&message=1467200400.000006&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C0JJXBFD4",
+  "msg": "1467200400.000006",
+  "avatarImage": "https://a.slack-edge.com/7fa9/img/slackbot_512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T13:08:55.411Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T13:19:11.026Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T13:45:30.804Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T14:10:48.154Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T14:13:28.199Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T14:15:52.823Z - info: Too many spelling errors, falling back to content: en_AU
+2016-06-29T14:15:52.855Z - info: Too many spelling errors, falling back to content: en_AU
+2016-06-29T14:44:49.562Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T14:44:49.617Z - info: NEW_NOTIFICATION : {
+  "id": "90bf5d9a-48de-4265-8b32-9a9c9875acd1",
+  "launchUri": "slack://channel?id=C0JJXBFD4&message=1467211489.000007&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C0JJXBFD4",
+  "msg": "1467211489.000007",
+  "avatarImage": "https://secure.gravatar.com/avatar/a56377e8b4336fb140c42de35225b2b4.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F7fa9%2Fimg%2Favatars%2Fava_0002-512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T14:44:49.925Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 2,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T14:44:49.929Z - info: NEW_NOTIFICATION : {
+  "id": "d7e02d8b-59a1-43fc-9450-38cf36b649d6",
+  "launchUri": "slack://channel?id=C0JJXBFD4&message=1467211489.000008&team=T0JJT3CN9",
+  "imageUri": null,
+  "channel": "C0JJXBFD4",
+  "msg": "1467211489.000008",
+  "avatarImage": "https://a.slack-edge.com/7fa9/img/slackbot_512.png",
+  "ssbFilename": "knock_brush.mp3",
+  "teamId": "T0JJT3CN9"
+}
+2016-06-29T14:44:58.561Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T0JJT3CN9"
+}

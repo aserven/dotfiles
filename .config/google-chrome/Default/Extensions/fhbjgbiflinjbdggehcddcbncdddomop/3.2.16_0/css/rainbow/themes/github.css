@@ -1,0 +1,101 @@
+/**
+ * GitHub theme
+ *
+ * @author Craig Campbell
+ * @version 1.0.4
+ */
+div.html-source-pane pre {
+    border: 1px solid #ccc;
+    word-wrap: break-word;
+    padding: 6px 10px;
+    line-height: 19px;
+    margin-bottom: 20px;
+}
+
+div.html-source-pane code {
+    border: 1px solid #eaeaea;
+    margin: 0px 2px;
+    padding: 0px 5px;
+    font-size: 12px;
+}
+
+div.html-source-pane pre code {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+}
+
+div.html-source-pane pre, div.html-source-pane code {
+    font-family: Consolas, 'Liberation Mono', Courier, monospace;
+    color: #333;
+    background: #f8f8f8;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+div.html-source-pane pre, div.html-source-pane pre code {
+    font-size: 13px;
+}
+
+div.html-source-pane pre .comment {
+    color: #998;
+}
+
+div.html-source-pane pre .support_rainbow {
+    color: #0086B3;
+}
+
+div.html-source-pane pre .tag, div.html-source-pane pre .tag-name {
+    color: navy;
+}
+
+div.html-source-pane pre .keyword, 
+div.html-source-pane pre .css-property, 
+div.html-source-pane pre .vendor-prefix, 
+div.html-source-pane pre .sass, 
+div.html-source-pane pre .class, 
+div.html-source-pane pre .id, 
+div.html-source-pane pre .css-value, 
+div.html-source-pane pre .entity.function, 
+div.html-source-pane pre .storage.function {
+    font-weight: bold;
+}
+
+div.html-source-pane pre .css-property, 
+div.html-source-pane pre .css-value, 
+div.html-source-pane pre .vendor-prefix, 
+div.html-source-pane pre .support_rainbow.namespace {
+    color: #333;
+}
+
+div.html-source-pane pre .constant.numeric, 
+div.html-source-pane pre .keyword.unit, 
+div.html-source-pane pre .hex-color {
+    font-weight: normal;
+    color: #099;
+}
+
+div.html-source-pane pre .entity.class {
+    color: #458;
+}
+
+div.html-source-pane pre .entity.id, div.html-source-pane pre .entity.function {
+    color: #900;
+}
+
+div.html-source-pane pre .attribute, div.html-source-pane pre .variable {
+    color: teal;
+}
+
+div.html-source-pane pre .string, div.html-source-pane pre .support_rainbow.value  {
+    font-weight: normal;
+    color: #d14;
+}
+
+div.html-source-pane pre .regexp {
+    color: #009926;
+}

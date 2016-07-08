@@ -1,0 +1,37 @@
+[Default Applications]
+inode/directory=pcmanfm.desktop
+application/javascript=sublime-text.desktop
+image/jpeg=gpicview.desktop
+image/bmp=gpicview.desktop
+image/gif=gpicview.desktop
+image/jpg=gpicview.desktop
+image/png=gpicview.desktop
+image/tiff=gpicview.desktop
+image/x-bmp=gpicview.desktop
+image/x-pcx=gpicview.desktop
+image/x-tga=gpicview.desktop
+image/x-portable-pixmap=gpicview.desktop
+image/x-portable-bitmap=gpicview.desktop
+image/x-targa=gpicview.desktop
+image/x-portable-greymap=gpicview.desktop
+image/svg+xml=gpicview.desktop
+image/svg-xml=gpicview.desktop
+
+[Added Associations]
+inode/directory=pcmanfm.desktop;
+application/javascript=sublime-text.desktop;atom.desktop;
+image/bmp=gpicview.desktop;
+image/gif=gpicview.desktop;
+image/jpg=gpicview.desktop;
+image/png=gpicview.desktop;
+image/tiff=gpicview.desktop;
+image/x-bmp=gpicview.desktop;
+image/x-pcx=gpicview.desktop;
+image/x-tga=gpicview.desktop;
+image/x-portable-pixmap=gpicview.desktop;
+image/x-portable-bitmap=gpicview.desktop;
+image/x-targa=gpicview.desktop;
+image/x-portable-greymap=gpicview.desktop;
+image/svg+xml=gpicview.desktop;
+image/svg-xml=gpicview.desktop;
+application/x-java-keystore=atom.desktop;

@@ -1,0 +1,14 @@
+2016/07/08-07:58:26.033 2116 Reusing MANIFEST /home/bellahora-04/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2016/07/08-07:58:26.059 2116 Recovering log #10299
+2016/07/08-07:58:26.110 2116 Level-0 table #10302: started
+2016/07/08-07:58:26.192 2116 Level-0 table #10302: 1441411 bytes OK
+2016/07/08-07:58:26.213 2116 Delete type=0 #10299
+2016/07/08-07:58:26.222 2402 Compacting 4@0 + 1@1 files
+2016/07/08-07:58:26.358 2402 Generated table #10304: 33 keys, 1377838 bytes
+2016/07/08-07:58:26.358 2402 Compacted 4@0 + 1@1 files => 1377838 bytes
+2016/07/08-07:58:26.366 2402 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/07/08-07:58:26.366 2402 Delete type=2 #10296
+2016/07/08-07:58:26.366 2402 Delete type=2 #10298
+2016/07/08-07:58:26.367 2402 Delete type=2 #10300
+2016/07/08-07:58:26.367 2402 Delete type=2 #10294
+2016/07/08-07:58:26.367 2402 Delete type=2 #10302

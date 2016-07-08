@@ -1,0 +1,12 @@
+2016/07/06-08:11:02.408 2162 Reusing MANIFEST /home/bellahora-04/.config/chromium/Default/Session Storage/MANIFEST-000001
+2016/07/06-08:11:02.408 2162 Recovering log #1721
+2016/07/06-08:11:02.416 2162 Reusing old log /home/bellahora-04/.config/chromium/Default/Session Storage/001721.log 
+2016/07/06-12:13:13.758 25736 Level-0 table #1726: started
+2016/07/06-12:13:13.787 25736 Level-0 table #1726: 1531585 bytes OK
+2016/07/06-12:13:13.791 25736 Delete type=0 #1721
+2016/07/06-12:39:09.094 25736 Level-0 table #1728: started
+2016/07/06-12:39:09.138 25736 Level-0 table #1728: 2689725 bytes OK
+2016/07/06-12:39:09.142 25736 Delete type=0 #1725
+2016/07/06-16:10:08.922 25736 Level-0 table #1730: started
+2016/07/06-16:10:08.952 25736 Level-0 table #1730: 1802028 bytes OK
+2016/07/06-16:10:08.955 25736 Delete type=0 #1727

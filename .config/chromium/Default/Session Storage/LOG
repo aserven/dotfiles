@@ -1,0 +1,12 @@
+2016/07/08-07:58:27.436 2232 Reusing MANIFEST /home/bellahora-04/.config/chromium/Default/Session Storage/MANIFEST-000001
+2016/07/08-07:58:27.436 2232 Recovering log #1729
+2016/07/08-07:58:27.469 2232 Reusing old log /home/bellahora-04/.config/chromium/Default/Session Storage/001729.log 
+2016/07/08-08:07:24.498 6212 Compacting 2@0 + 1@1 files
+2016/07/08-08:07:24.539 6212 Generated table #1732: 1640 keys, 2142940 bytes
+2016/07/08-08:07:24.576 6212 Generated table #1733: 200 keys, 2359179 bytes
+2016/07/08-08:07:24.601 6212 Generated table #1734: 735 keys, 1099667 bytes
+2016/07/08-08:07:24.601 6212 Compacted 2@0 + 1@1 files => 5601786 bytes
+2016/07/08-08:07:24.605 6212 compacted to: files[ 0 3 1 0 0 0 0 ]
+2016/07/08-08:07:24.605 6212 Delete type=2 #1728
+2016/07/08-08:07:24.605 6212 Delete type=2 #1730
+2016/07/08-08:07:24.605 6212 Delete type=2 #1726

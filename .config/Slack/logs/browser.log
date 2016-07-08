@@ -1,0 +1,959 @@
+2016-06-29T09:24:04.007Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/local-settings.json
+2016-06-29T09:24:04.009Z - error: Couldn't load /home/bellahora-04/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/bellahora-04/.config/Slack/local-settings.json'
+2016-06-29T09:24:04.204Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/redux-state.json
+2016-06-29T09:24:04.204Z - error: Couldn't load /home/bellahora-04/.config/Slack/redux-state.json: ENOENT: no such file or directory, open '/home/bellahora-04/.config/Slack/redux-state.json'
+2016-06-29T09:24:04.205Z - info: No state in localStorage, starting from scratch
+2016-06-29T09:24:04.205Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2016-06-29T09:24:04.207Z - info: No state in keychain, starting from scratch
+2016-06-29T09:24:04.209Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2016-06-29T09:24:04.209Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/local-settings.json
+2016-06-29T09:24:04.209Z - error: Couldn't load /home/bellahora-04/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/bellahora-04/.config/Slack/local-settings.json'
+2016-06-29T09:24:04.210Z - info: LOAD_LEGACY : {
+  "updated": {
+    "settings": {
+      "hasRunApp": false,
+      "hasRunFromTray": false,
+      "autoHideMenuBar": false,
+      "hasMigratedData": {
+        "browser": true
+      }
+    }
+  }
+}
+2016-06-29T09:24:04.330Z - error: Native Interop ERR: getOSVersion() - Not implemented!!!!
+2016-06-29T09:24:04.331Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.0.6",
+  "versionName": "Cautionary Tale",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchOnStartup": false,
+  "platformVersion": {
+    "major": 1,
+    "minor": 0,
+    "build": 0
+  },
+  "releaseChannel": "prod",
+  "pretendNotReallyWindows10": false,
+  "logFile": null,
+  "isTitleBarHidden": false
+}
+2016-06-29T09:24:04.357Z - info: Showing a tray balloon with title: Welcome to Slack!
+2016-06-29T09:24:04.366Z - info: UPDATE_SETTINGS : {
+  "hasRunApp": true
+}
+2016-06-29T09:24:04.385Z - info: ADD_WINDOW : {
+  "windowId": 1,
+  "windowType": "MAIN"
+}
+2016-06-29T09:24:04.392Z - info: Loading windowMetrics: null
+2016-06-29T09:24:04.539Z - info: UPDATE_SETTINGS : {
+  "PrefSSBFileDownloadPath": "/home/bellahora-04/Downloads"
+}
+2016-06-29T09:24:04.544Z - info: Welcome to Slack 2.0.6 x64
+2016-06-29T09:24:04.544Z - info: App load time: 543ms
+2016-06-29T09:24:04.547Z - warn: No updater exists for this platform
+2016-06-29T09:24:07.526Z - info: Main window finished load. Launched on login: false
+2016-06-29T09:24:07.574Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:24:41.231Z - info: Saving store due to ADD_NEW_TEAM
+2016-06-29T09:25:02.084Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:25:15.319Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:25:17.801Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:27:00.982Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:28:35.115Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:28:45.176Z - info: SHOW_PREFERENCES 
+2016-06-29T09:29:00.991Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:29:01.750Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:29:08.855Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:29:14.738Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:30:54.303Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:48:10.583Z - info: FOREGROUND_APP 
+2016-06-29T09:48:11.243Z - info: FOREGROUND_APP 
+2016-06-29T09:48:11.587Z - info: FOREGROUND_APP 
+2016-06-29T09:48:12.453Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T09:56:54.583Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T10:09:00.984Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T11:25:48.883Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T11:25:50.776Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T11:25:52.103Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T11:56:34.417Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T11:56:37.479Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:03:21.407Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:06:19.356Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:07:46.160Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:08:03.479Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:11:36.079Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:11:37.233Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:19:06.964Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:19:07.935Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:19:09.481Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:19:13.461Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:19:19.403Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:20:55.446Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:20:57.064Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:23:53.979Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:24:25.406Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:29:51.389Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:32:00.741Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:32:41.233Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:32:51.559Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:33:00.399Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:34:22.436Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:35:56.899Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:40:15.885Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:40:48.934Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:41:27.534Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:43:15.283Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:44:51.787Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:44:53.146Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:45:15.505Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:45:50.535Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:46:14.905Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:54:20.997Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:54:42.058Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:55:33.309Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:55:43.070Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:58:21.308Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:59:38.619Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:59:51.571Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T13:59:54.233Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:01:00.755Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:02:58.306Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:03:06.345Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:08:05.400Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:09:16.571Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:09:28.437Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:09:32.212Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:12:11.342Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:12:55.949Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:13:12.922Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:13:15.746Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:14:30.586Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:15:29.633Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:15:48.309Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:15:48.891Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:15:49.323Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:23:07.342Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:23:09.469Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:23:49.712Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:24:12.164Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:24:25.771Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:28:48.715Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:28:53.816Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:32:51.481Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:32:54.865Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:32:55.764Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:32:59.299Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:36:57.791Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:37:00.948Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:37:02.309Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:41:11.015Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:41:18.557Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:41:25.378Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:44:29.511Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:44:34.037Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:44:58.443Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:45:39.887Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:45:40.752Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:50:46.564Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:50:51.203Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:51:56.121Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:52:46.147Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:55:05.025Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:55:33.314Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:56:12.134Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:56:31.707Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:56:59.417Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:57:23.591Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:57:31.106Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T14:57:41.582Z - info: FOCUS_PRIMARY_TEAM 
+2016-06-29T15:06:07.737Z - info: Allowing window close because user chose to quit
+2016-07-01T06:01:12.484Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/local-settings.json
+2016-07-01T06:01:12.489Z - error: Couldn't load /home/bellahora-04/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/bellahora-04/.config/Slack/local-settings.json'
+2016-07-01T06:01:13.270Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/redux-state.json
+2016-07-01T06:01:13.274Z - info: LOAD_PERSISTENT : {
+  "updated": {
+    "app": {
+      "selectedTeamId": "T0JJT3CN9",
+      "teamsByIndex": [
+        "T0JJT3CN9"
+      ],
+      "windowSettings": {
+        "size": [
+          1680,
+          1029
+        ],
+        "position": [
+          1050,
+          21
+        ],
+        "isMaximized": false
+      }
+    },
+    "settings": {
+      "appVersion": "2.0.6",
+      "versionName": "Cautionary Tale",
+      "platform": "linux",
+      "platformVersion": {
+        "major": 1,
+        "minor": 0,
+        "build": 0
+      },
+      "isWin10": false,
+      "isBeforeWin10": false,
+      "resourcePath": "/usr/lib/slack/resources/app.asar",
+      "isDevMode": false,
+      "devEnv": null,
+      "logFile": null,
+      "releaseChannel": "prod",
+      "pretendNotReallyWindows10": false,
+      "autoHideMenuBar": false,
+      "isTitleBarHidden": false,
+      "hasRunApp": true,
+      "hasRunFromTray": false,
+      "hasMigratedData": {
+        "browser": true,
+        "renderer": true
+      },
+      "runFromTray": true,
+      "launchOnStartup": false,
+      "zoomLevel": 0,
+      "PrefSSBFileDownloadPath": "/home/bellahora-04/Downloads",
+      "useHwAcceleration": true
+    },
+    "teams": {
+      "T0JJT3CN9": {
+        "name": "albertserven",
+        "id": "U0NL30SRL",
+        "team_id": "T0JJT3CN9",
+        "team_name": "Bellahora",
+        "team_url": "https://bellahora.slack.com/",
+        "unreads": 0,
+        "unreadHighlights": 0,
+        "showBullet": true,
+        "initials": "B",
+        "user_id": "U0NL30SRL",
+        "theme": {
+          "column_bg": "#544538",
+          "menu_bg": "#42362B",
+          "active_item": "#5DB09D",
+          "active_item_text": "#FFFFFF",
+          "hover_item": "#4A3C30",
+          "text_color": "#FFFFFF",
+          "active_presence": "#FFFFFF",
+          "badge": "#5DB09D"
+        },
+        "icons": false
+      }
+    }
+  }
+}
+2016-07-01T06:01:13.285Z - info: No state in keychain, starting from scratch
+2016-07-01T06:01:13.307Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2016-07-01T06:01:13.498Z - error: Native Interop ERR: getOSVersion() - Not implemented!!!!
+2016-07-01T06:01:13.499Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.0.6",
+  "versionName": "Cautionary Tale",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchOnStartup": false,
+  "platformVersion": {
+    "major": 1,
+    "minor": 0,
+    "build": 0
+  },
+  "releaseChannel": "prod",
+  "pretendNotReallyWindows10": false,
+  "logFile": null,
+  "isTitleBarHidden": false
+}
+2016-07-01T06:01:13.700Z - info: ADD_WINDOW : {
+  "windowId": 1,
+  "windowType": "MAIN"
+}
+2016-07-01T06:01:13.733Z - info: Loading windowMetrics: {"size":[1680,1029],"position":[1050,21],"isMaximized":false}
+2016-07-01T06:01:14.458Z - info: Welcome to Slack 2.0.6 x64
+2016-07-01T06:01:14.458Z - info: App load time: 1991ms
+2016-07-01T06:01:14.474Z - warn: No updater exists for this platform
+2016-07-01T06:01:36.623Z - info: Main window finished load. Launched on login: false
+2016-07-01T06:01:36.662Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:02:47.037Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:02:47.495Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:02:48.774Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:03:08.821Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:03:10.831Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:03:20.465Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:03:26.272Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:03:27.797Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:05:39.078Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:11:30.005Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:11:30.553Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:13:20.442Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:16:13.024Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:27:07.484Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:27:08.968Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:37:59.297Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:46:08.084Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T06:51:51.587Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T07:12:42.386Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T07:12:42.731Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T07:15:45.479Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T07:47:16.388Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:00:14.656Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:02:39.923Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:02:40.674Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:02:42.618Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:04:39.049Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:06:04.171Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:21:39.246Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:21:40.108Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:22:03.431Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:22:03.915Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:24:37.295Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:30:38.192Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:34:06.350Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:34:17.656Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:38:39.394Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T08:43:21.201Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T09:03:44.354Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T10:20:48.515Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T10:29:11.552Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T10:29:11.925Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T10:29:21.100Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T10:35:04.942Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T10:35:07.213Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T10:35:54.850Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T10:37:19.234Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T10:38:18.568Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T10:41:40.139Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T11:00:32.338Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T11:09:19.392Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T11:09:21.609Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T11:28:16.604Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-01T12:01:14.162Z - warn: No updater exists for this platform
+2016-07-04T06:02:41.422Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/local-settings.json
+2016-07-04T06:02:41.426Z - error: Couldn't load /home/bellahora-04/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/bellahora-04/.config/Slack/local-settings.json'
+2016-07-04T06:02:41.893Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/redux-state.json
+2016-07-04T06:02:41.903Z - info: LOAD_PERSISTENT : {
+  "updated": {
+    "app": {
+      "selectedTeamId": "T0JJT3CN9",
+      "teamsByIndex": [
+        "T0JJT3CN9"
+      ],
+      "windowSettings": {
+        "size": [
+          1680,
+          1029
+        ],
+        "position": [
+          1050,
+          21
+        ],
+        "isMaximized": false
+      }
+    },
+    "settings": {
+      "appVersion": "2.0.6",
+      "versionName": "Cautionary Tale",
+      "platform": "linux",
+      "platformVersion": {
+        "major": 1,
+        "minor": 0,
+        "build": 0
+      },
+      "isWin10": false,
+      "isBeforeWin10": false,
+      "resourcePath": "/usr/lib/slack/resources/app.asar",
+      "isDevMode": false,
+      "devEnv": null,
+      "logFile": null,
+      "releaseChannel": "prod",
+      "pretendNotReallyWindows10": false,
+      "autoHideMenuBar": false,
+      "isTitleBarHidden": false,
+      "hasRunApp": true,
+      "hasRunFromTray": false,
+      "hasMigratedData": {
+        "browser": true,
+        "renderer": true
+      },
+      "runFromTray": true,
+      "launchOnStartup": false,
+      "zoomLevel": 0,
+      "PrefSSBFileDownloadPath": "/home/bellahora-04/Downloads",
+      "useHwAcceleration": true
+    },
+    "teams": {
+      "T0JJT3CN9": {
+        "name": "albertserven",
+        "id": "U0NL30SRL",
+        "team_id": "T0JJT3CN9",
+        "team_name": "Bellahora",
+        "team_url": "https://bellahora.slack.com/",
+        "unreads": 0,
+        "unreadHighlights": 0,
+        "showBullet": true,
+        "initials": "B",
+        "user_id": "U0NL30SRL",
+        "theme": {
+          "column_bg": "#544538",
+          "menu_bg": "#42362B",
+          "active_item": "#5DB09D",
+          "active_item_text": "#FFFFFF",
+          "hover_item": "#4A3C30",
+          "text_color": "#FFFFFF",
+          "active_presence": "#FFFFFF",
+          "badge": "#5DB09D"
+        },
+        "icons": false
+      }
+    }
+  }
+}
+2016-07-04T06:02:41.906Z - info: No state in keychain, starting from scratch
+2016-07-04T06:02:41.909Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2016-07-04T06:02:42.166Z - error: Native Interop ERR: getOSVersion() - Not implemented!!!!
+2016-07-04T06:02:42.169Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.0.6",
+  "versionName": "Cautionary Tale",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchOnStartup": false,
+  "platformVersion": {
+    "major": 1,
+    "minor": 0,
+    "build": 0
+  },
+  "releaseChannel": "prod",
+  "pretendNotReallyWindows10": false,
+  "logFile": null,
+  "isTitleBarHidden": false
+}
+2016-07-04T06:02:42.328Z - info: ADD_WINDOW : {
+  "windowId": 1,
+  "windowType": "MAIN"
+}
+2016-07-04T06:02:42.350Z - info: Loading windowMetrics: {"size":[1680,1029],"position":[1050,21],"isMaximized":false}
+2016-07-04T06:02:42.592Z - info: Welcome to Slack 2.0.6 x64
+2016-07-04T06:02:42.593Z - info: App load time: 1190ms
+2016-07-04T06:02:42.597Z - warn: No updater exists for this platform
+2016-07-04T06:03:01.504Z - info: Main window finished load. Launched on login: false
+2016-07-04T06:03:01.544Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T06:03:43.386Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T06:03:45.439Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T06:03:49.542Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T06:09:37.748Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T06:09:40.943Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T06:13:29.090Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T06:21:00.123Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T06:33:39.673Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:01:40.783Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:01:41.316Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:01:41.924Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:13:10.649Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:14:48.339Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:35:30.580Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:37:36.124Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:37:36.441Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:38:51.902Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:38:52.320Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:45:26.523Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:45:37.952Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:45:38.614Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:46:21.315Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:46:21.807Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:48:00.116Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:50:41.062Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:51:04.501Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:51:26.090Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:51:37.043Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:56:50.939Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:58:40.544Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T07:59:10.689Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T08:04:56.030Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T08:34:57.178Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T09:05:33.421Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T09:44:50.790Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T09:48:27.411Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T10:02:42.659Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T10:02:45.127Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T10:25:32.654Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T10:25:34.925Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T10:47:12.983Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T10:47:14.955Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T10:48:03.833Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T10:49:19.125Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T11:13:19.846Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T12:02:42.937Z - warn: No updater exists for this platform
+2016-07-04T12:21:02.194Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T12:21:02.638Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T12:22:19.137Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T12:24:31.003Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T14:48:00.161Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T14:48:19.707Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T14:49:51.717Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T14:52:17.962Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T14:58:25.632Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T14:58:26.659Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T15:01:25.246Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T15:03:23.248Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T15:04:41.661Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-04T15:04:43.200Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T06:02:18.409Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/local-settings.json
+2016-07-05T06:02:18.411Z - error: Couldn't load /home/bellahora-04/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/bellahora-04/.config/Slack/local-settings.json'
+2016-07-05T06:02:18.998Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/redux-state.json
+2016-07-05T06:02:19.005Z - info: LOAD_PERSISTENT : {
+  "updated": {
+    "app": {
+      "selectedTeamId": "T0JJT3CN9",
+      "teamsByIndex": [
+        "T0JJT3CN9"
+      ],
+      "windowSettings": {
+        "size": [
+          1680,
+          1029
+        ],
+        "position": [
+          1050,
+          21
+        ],
+        "isMaximized": false
+      }
+    },
+    "settings": {
+      "appVersion": "2.0.6",
+      "versionName": "Cautionary Tale",
+      "platform": "linux",
+      "platformVersion": {
+        "major": 1,
+        "minor": 0,
+        "build": 0
+      },
+      "isWin10": false,
+      "isBeforeWin10": false,
+      "resourcePath": "/usr/lib/slack/resources/app.asar",
+      "isDevMode": false,
+      "devEnv": null,
+      "logFile": null,
+      "releaseChannel": "prod",
+      "pretendNotReallyWindows10": false,
+      "autoHideMenuBar": false,
+      "isTitleBarHidden": false,
+      "hasRunApp": true,
+      "hasRunFromTray": false,
+      "hasMigratedData": {
+        "browser": true,
+        "renderer": true
+      },
+      "runFromTray": true,
+      "launchOnStartup": false,
+      "zoomLevel": 0,
+      "PrefSSBFileDownloadPath": "/home/bellahora-04/Downloads",
+      "useHwAcceleration": true
+    },
+    "teams": {
+      "T0JJT3CN9": {
+        "name": "albertserven",
+        "id": "U0NL30SRL",
+        "team_id": "T0JJT3CN9",
+        "team_name": "Bellahora",
+        "team_url": "https://bellahora.slack.com/",
+        "unreads": 0,
+        "unreadHighlights": 0,
+        "showBullet": true,
+        "initials": "B",
+        "user_id": "U0NL30SRL",
+        "theme": {
+          "column_bg": "#544538",
+          "menu_bg": "#42362B",
+          "active_item": "#5DB09D",
+          "active_item_text": "#FFFFFF",
+          "hover_item": "#4A3C30",
+          "text_color": "#FFFFFF",
+          "active_presence": "#FFFFFF",
+          "badge": "#5DB09D"
+        },
+        "icons": false
+      }
+    }
+  }
+}
+2016-07-05T06:02:19.017Z - info: No state in keychain, starting from scratch
+2016-07-05T06:02:19.021Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2016-07-05T06:02:19.285Z - error: Native Interop ERR: getOSVersion() - Not implemented!!!!
+2016-07-05T06:02:19.287Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.0.6",
+  "versionName": "Cautionary Tale",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchOnStartup": false,
+  "platformVersion": {
+    "major": 1,
+    "minor": 0,
+    "build": 0
+  },
+  "releaseChannel": "prod",
+  "pretendNotReallyWindows10": false,
+  "logFile": null,
+  "isTitleBarHidden": false
+}
+2016-07-05T06:02:19.363Z - info: ADD_WINDOW : {
+  "windowId": 1,
+  "windowType": "MAIN"
+}
+2016-07-05T06:02:19.373Z - info: Loading windowMetrics: {"size":[1680,1029],"position":[1050,21],"isMaximized":false}
+2016-07-05T06:02:19.768Z - info: Welcome to Slack 2.0.6 x64
+2016-07-05T06:02:19.768Z - info: App load time: 1379ms
+2016-07-05T06:02:19.771Z - warn: No updater exists for this platform
+2016-07-05T06:02:37.466Z - info: Main window finished load. Launched on login: false
+2016-07-05T06:02:37.504Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T06:04:19.786Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T06:04:21.323Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T06:04:25.280Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T06:04:36.891Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T06:04:39.750Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T06:04:43.013Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T06:05:32.943Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T06:08:58.814Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T06:34:40.347Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T06:34:42.659Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T07:57:37.944Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T07:57:38.375Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T07:57:59.442Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T07:58:03.286Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T08:30:48.153Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T08:30:48.532Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T08:49:50.759Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T08:59:26.238Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T08:59:26.646Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T08:59:34.973Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T08:59:45.012Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T09:02:18.863Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T10:07:35.685Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T10:17:18.408Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T10:28:28.495Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T12:02:19.610Z - warn: No updater exists for this platform
+2016-07-05T12:28:16.095Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T12:33:20.138Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T12:33:29.621Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T12:33:55.607Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T12:35:08.056Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T12:39:03.707Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T13:24:16.552Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T13:24:16.829Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T13:55:34.347Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T14:52:07.338Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T14:52:18.052Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-05T15:00:02.272Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:10:57.748Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/local-settings.json
+2016-07-06T06:10:57.770Z - error: Couldn't load /home/bellahora-04/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/bellahora-04/.config/Slack/local-settings.json'
+2016-07-06T06:10:58.331Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/redux-state.json
+2016-07-06T06:10:58.335Z - info: LOAD_PERSISTENT : {
+  "updated": {
+    "app": {
+      "selectedTeamId": "T0JJT3CN9",
+      "teamsByIndex": [
+        "T0JJT3CN9"
+      ],
+      "windowSettings": {
+        "size": [
+          1680,
+          1029
+        ],
+        "position": [
+          1050,
+          21
+        ],
+        "isMaximized": false
+      }
+    },
+    "settings": {
+      "appVersion": "2.0.6",
+      "versionName": "Cautionary Tale",
+      "platform": "linux",
+      "platformVersion": {
+        "major": 1,
+        "minor": 0,
+        "build": 0
+      },
+      "isWin10": false,
+      "isBeforeWin10": false,
+      "resourcePath": "/usr/lib/slack/resources/app.asar",
+      "isDevMode": false,
+      "devEnv": null,
+      "logFile": null,
+      "releaseChannel": "prod",
+      "pretendNotReallyWindows10": false,
+      "autoHideMenuBar": false,
+      "isTitleBarHidden": false,
+      "hasRunApp": true,
+      "hasRunFromTray": false,
+      "hasMigratedData": {
+        "browser": true,
+        "renderer": true
+      },
+      "runFromTray": true,
+      "launchOnStartup": false,
+      "zoomLevel": 0,
+      "PrefSSBFileDownloadPath": "/home/bellahora-04/Downloads",
+      "useHwAcceleration": true
+    },
+    "teams": {
+      "T0JJT3CN9": {
+        "name": "albertserven",
+        "id": "U0NL30SRL",
+        "team_id": "T0JJT3CN9",
+        "team_name": "Bellahora",
+        "team_url": "https://bellahora.slack.com/",
+        "unreads": 0,
+        "unreadHighlights": 0,
+        "showBullet": true,
+        "initials": "B",
+        "user_id": "U0NL30SRL",
+        "theme": {
+          "column_bg": "#544538",
+          "menu_bg": "#42362B",
+          "active_item": "#5DB09D",
+          "active_item_text": "#FFFFFF",
+          "hover_item": "#4A3C30",
+          "text_color": "#FFFFFF",
+          "active_presence": "#FFFFFF",
+          "badge": "#5DB09D"
+        },
+        "icons": false
+      }
+    }
+  }
+}
+2016-07-06T06:10:58.362Z - info: No state in keychain, starting from scratch
+2016-07-06T06:10:58.369Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2016-07-06T06:10:58.673Z - error: Native Interop ERR: getOSVersion() - Not implemented!!!!
+2016-07-06T06:10:58.674Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.0.6",
+  "versionName": "Cautionary Tale",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchOnStartup": false,
+  "platformVersion": {
+    "major": 1,
+    "minor": 0,
+    "build": 0
+  },
+  "releaseChannel": "prod",
+  "pretendNotReallyWindows10": false,
+  "logFile": null,
+  "isTitleBarHidden": false
+}
+2016-07-06T06:10:58.721Z - info: ADD_WINDOW : {
+  "windowId": 1,
+  "windowType": "MAIN"
+}
+2016-07-06T06:10:58.728Z - info: Loading windowMetrics: {"size":[1680,1029],"position":[1050,21],"isMaximized":false}
+2016-07-06T06:10:58.958Z - info: Welcome to Slack 2.0.6 x64
+2016-07-06T06:10:58.958Z - info: App load time: 1256ms
+2016-07-06T06:10:58.969Z - warn: No updater exists for this platform
+2016-07-06T06:11:17.968Z - info: Main window finished load. Launched on login: false
+2016-07-06T06:11:18.006Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:12:35.784Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:12:36.706Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:12:50.630Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:12:52.609Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:13:00.998Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:13:15.909Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:20:12.914Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:35:07.051Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:35:17.037Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:35:19.233Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:48:46.867Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:48:52.127Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:50:12.665Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:54:09.866Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:54:11.969Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:54:40.214Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T06:58:15.482Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T07:23:41.111Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T07:42:44.243Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T07:42:45.546Z - info: FOREGROUND_APP 
+2016-07-06T07:42:45.998Z - info: FOREGROUND_APP 
+2016-07-06T07:42:46.254Z - info: FOREGROUND_APP 
+2016-07-06T07:42:46.566Z - info: FOREGROUND_APP 
+2016-07-06T07:42:47.205Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T08:50:45.556Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T09:03:03.747Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T09:04:05.411Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T09:06:31.929Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T09:06:34.774Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T09:06:55.812Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T09:35:43.024Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T09:35:43.421Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T09:36:36.334Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:26:04.399Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:26:06.837Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:42:31.086Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:43:37.173Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:44:58.647Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:50:24.045Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:50:26.869Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:53:41.709Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:53:44.767Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:55:15.136Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:55:30.486Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T10:56:32.176Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T11:07:32.397Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T11:07:32.783Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T11:21:16.671Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T12:10:58.755Z - warn: No updater exists for this platform
+2016-07-06T12:42:26.558Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T13:09:04.579Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T13:13:26.041Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T13:13:54.422Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T13:17:05.413Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T13:17:05.763Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T13:19:35.173Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T13:20:40.688Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T13:38:01.117Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T13:38:01.486Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T14:06:10.015Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T14:08:06.691Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T14:08:07.036Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T14:35:31.873Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T14:35:32.951Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T14:43:57.485Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T14:47:10.719Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T14:47:13.598Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T14:50:51.993Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T14:59:24.634Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-06T14:59:25.045Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-08T05:58:24.109Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/local-settings.json
+2016-07-08T05:58:24.112Z - error: Couldn't load /home/bellahora-04/.config/Slack/local-settings.json: ENOENT: no such file or directory, open '/home/bellahora-04/.config/Slack/local-settings.json'
+2016-07-08T05:58:24.558Z - info: Creating local storage instance at path: /home/bellahora-04/.config/Slack/redux-state.json
+2016-07-08T05:58:24.561Z - info: LOAD_PERSISTENT : {
+  "updated": {
+    "app": {
+      "selectedTeamId": "T0JJT3CN9",
+      "teamsByIndex": [
+        "T0JJT3CN9"
+      ],
+      "windowSettings": {
+        "size": [
+          1680,
+          1029
+        ],
+        "position": [
+          1050,
+          21
+        ],
+        "isMaximized": false
+      }
+    },
+    "settings": {
+      "appVersion": "2.0.6",
+      "versionName": "Cautionary Tale",
+      "platform": "linux",
+      "platformVersion": {
+        "major": 1,
+        "minor": 0,
+        "build": 0
+      },
+      "isWin10": false,
+      "isBeforeWin10": false,
+      "resourcePath": "/usr/lib/slack/resources/app.asar",
+      "isDevMode": false,
+      "devEnv": null,
+      "logFile": null,
+      "releaseChannel": "prod",
+      "pretendNotReallyWindows10": false,
+      "autoHideMenuBar": false,
+      "isTitleBarHidden": false,
+      "hasRunApp": true,
+      "hasRunFromTray": false,
+      "hasMigratedData": {
+        "browser": true,
+        "renderer": true
+      },
+      "runFromTray": true,
+      "launchOnStartup": false,
+      "zoomLevel": 0,
+      "PrefSSBFileDownloadPath": "/home/bellahora-04/Downloads",
+      "useHwAcceleration": true
+    },
+    "teams": {
+      "T0JJT3CN9": {
+        "name": "albertserven",
+        "id": "U0NL30SRL",
+        "team_id": "T0JJT3CN9",
+        "team_name": "Bellahora",
+        "team_url": "https://bellahora.slack.com/",
+        "unreads": 0,
+        "unreadHighlights": 0,
+        "showBullet": true,
+        "initials": "B",
+        "user_id": "U0NL30SRL",
+        "theme": {
+          "column_bg": "#544538",
+          "menu_bg": "#42362B",
+          "active_item": "#5DB09D",
+          "active_item_text": "#FFFFFF",
+          "hover_item": "#4A3C30",
+          "text_color": "#FFFFFF",
+          "active_presence": "#FFFFFF",
+          "badge": "#5DB09D"
+        },
+        "icons": false
+      }
+    }
+  }
+}
+2016-07-08T05:58:24.567Z - info: No state in keychain, starting from scratch
+2016-07-08T05:58:24.570Z - info: LOAD_PERSISTENT : {
+  "updated": {}
+}
+2016-07-08T05:58:25.080Z - error: Native Interop ERR: getOSVersion() - Not implemented!!!!
+2016-07-08T05:58:25.093Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.0.6",
+  "versionName": "Cautionary Tale",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchOnStartup": false,
+  "platformVersion": {
+    "major": 1,
+    "minor": 0,
+    "build": 0
+  },
+  "releaseChannel": "prod",
+  "pretendNotReallyWindows10": false,
+  "logFile": null,
+  "isTitleBarHidden": false
+}
+2016-07-08T05:58:25.207Z - info: ADD_WINDOW : {
+  "windowId": 1,
+  "windowType": "MAIN"
+}
+2016-07-08T05:58:25.216Z - info: Loading windowMetrics: {"size":[1680,1029],"position":[1050,21],"isMaximized":false}
+2016-07-08T05:58:25.628Z - info: Welcome to Slack 2.0.6 x64
+2016-07-08T05:58:25.628Z - info: App load time: 1532ms
+2016-07-08T05:58:25.634Z - warn: No updater exists for this platform
+2016-07-08T05:58:37.854Z - info: Main window finished load. Launched on login: false
+2016-07-08T05:58:37.889Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-08T05:59:00.184Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-08T05:59:02.590Z - info: FOCUS_PRIMARY_TEAM 
+2016-07-08T05:59:10.010Z - info: FOCUS_PRIMARY_TEAM 

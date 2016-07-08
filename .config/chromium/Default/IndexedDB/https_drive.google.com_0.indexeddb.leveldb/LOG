@@ -1,0 +1,12 @@
+2016/07/01-11:21:00.009 2183 Reusing MANIFEST /home/bellahora-04/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/07/01-11:21:01.018 2183 Current memtable full; waiting...
+2016/07/01-11:21:01.030 18140 Level-0 table #5: started
+2016/07/01-11:21:01.036 18140 Level-0 table #5: 615 bytes OK
+2016/07/01-11:21:01.040 18140 Delete type=0 #3
+2016/07/01-11:21:01.040 18140 Level-0 table #7: started
+2016/07/01-11:21:01.041 18140 Level-0 table #7: 0 bytes OK
+2016/07/01-11:21:01.048 18140 Delete type=0 #4
+2016/07/01-11:21:01.048 18140 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2016/07/01-11:21:51.824 18140 Level-0 table #9: started
+2016/07/01-11:21:51.942 18140 Level-0 table #9: 6757253 bytes OK
+2016/07/01-11:21:51.954 18140 Delete type=0 #6

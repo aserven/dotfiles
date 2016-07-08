@@ -1,0 +1,30 @@
+// ofOlTTP6PJRtUy4UmYzq4baL/NoAOaUywJcqsa/FC7ym2RTWvbkKzjHVlEHaVPt5aUZM0onr+S9ZOO9RrFjsrDTov1MYrWcF1bXcpFG3LWW2ysl3iovcPaRQxmutWmffotg1C4bRzO05NEKBcv6ASAHTKHe6+reMbJdNj7GEdvFDZU/XWY38SCAbB4Dj5zZhmRUvOnywGdQuM9Ja2blm8AbXRRUw9WdLgfOjbFw0DhT+qPHT6Svst3Au6+6N6JALzOmYKc6xgqgOmFyp6Qcm4pzuPMBUoxsf4fgX9JdXZd2pFisTjMthSjnHGj4b4/3/gSF4nvwMNyqOEnVZiOdY4Q==
+{
+	"@encoding": "UTF-8",
+	"@version": "1.0",
+	"preferences": {
+		"config": {
+			"useragent": [{
+				"@value": "Mozilla/5.0 ($PLATFORM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36",
+				"@id": "32"
+			}, {
+				"@value": "Mozilla/5.0 ($PLATFORM; rv:24.0) Gecko/20100101 Firefox/24.0 $OPR",
+				"@id": "31"
+			}, {
+				"@value": "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)",
+				"@id": "34"
+			}]
+		},
+		"@clean_all": "1",
+		"host": [{
+			"@name": "opera.bluejeans.com",
+			"section": {
+				"pref": {
+					"@value": "31",
+					"@name": "Spoof UserAgent ID"
+				},
+				"@name": "User Agent"
+			}
+		}]
+	}
+}

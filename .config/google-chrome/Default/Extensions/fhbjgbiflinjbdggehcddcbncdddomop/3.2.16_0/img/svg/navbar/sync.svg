@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_9_" x="1" y="1" width="28" height="28"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_9_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="#F37024" d="M15,29c7.7,0,14-6.3,14-14c0-7.7-6.3-14-14-14S1,7.3,1,15C1,22.7,7.3,29,15,29"
+		/>
+	<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M18.6,16.4c0,2.3-1.9,4.1-4.1,4.1c-2.3,0-4.1-1.9-4.1-4.1s1.9-4.1,4.1-4.1
+		C16.8,12.2,18.6,14.1,18.6,16.4"/>
+	<circle clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" cx="14.5" cy="16.4" r="4.1"/>
+	<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M16.4,14.2c0.5,0.3,0.7,1.2,0.7,1.8"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M16.4,14.2c0.5,0.3,0.7,1.2,0.7,1.8"/>
+	<circle clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" cx="15.1" cy="15.1" r="9.5"/>
+	<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M11.3,23.2c0,0.9-0.7,1.7-1.7,1.7c-0.9,0-1.7-0.7-1.7-1.7
+		c0-0.9,0.7-1.7,1.7-1.7C10.5,21.6,11.3,22.3,11.3,23.2"/>
+	<circle clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" cx="9.6" cy="23.2" r="1.7"/>
+	<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M9.5,8.3c0,0.5-0.4,1-1,1c-0.5,0-1-0.4-1-1c0-0.5,0.4-1,1-1
+		C9,7.3,9.5,7.7,9.5,8.3"/>
+	<circle clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" cx="8.5" cy="8.3" r="1"/>
+	<path clip-path="url(#SVGID_2_)" fill="#FFFFFF" d="M26.4,12.2c0,0.9-0.7,1.7-1.6,1.7c-0.9,0-1.7-0.7-1.7-1.6
+		c0-0.9,0.7-1.7,1.6-1.7C25.7,10.6,26.4,11.3,26.4,12.2"/>
+	<circle clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" cx="24.8" cy="12.3" r="1.7"/>
+</g>
+</svg>
