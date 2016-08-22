@@ -1,0 +1,98 @@
+background no
+out_to_console yes
+out_to_x no
+max_text_width 0
+own_window no
+update_interval 0.5
+total_run_times 0
+short_units yes
+if_up_strictness address
+use_spacer right
+override_utf8_locale no
+cpu_avg_samples 2
+TEXT
+[
+#Wifi
+{"full_text":"","color":"\#d5d5d5","separator":false,"separator_block_width":6},\
+# Download:
+{"full_text":"", "color":"\#d5d5d5","separator":false, "separator_block_width":6}, \
+{"full_text":"${if_match ${downspeedf em1}<100}${downspeed em1}","color":"\#AAF096","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${downspeedf em1}<300}${downspeed em1}","color":"\#68B1E8","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${downspeedf em1}<700}${downspeed em1}","color":"\#DB70B8","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${downspeedf em1}<1000}${downspeed em1}","color":"\#9470DB","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${downspeedf em1}>=1000}${downspeed em1}","color":"\#FF3333","separator":false,"separator_block_width":6},\
+{"full_text":"${endif}${endif}${endif}${endif}${endif}"},\
+# Upload:
+{"full_text":"", "color":"\#d5d5d5","separator":false, "separator_block_width":6}, \
+{"full_text":"${if_match ${upspeedf em1}<15}${upspeed em1}","color":"\#AAF096","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${upspeedf em1}<35}${upspeed em1}","color":"\#9470DB","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${upspeedf em1}>=35}${upspeed em1}","color":"\#FF3333","separator":false,"separator_block_width":6},\
+{"full_text":"${endif}${endif}${endif}"},\
+
+#CPU
+{"full_text":"","color":"\#d5d5d5","separator":false,"separator_block_width":6},\
+{"full_text":"${if_match ${cpu cpu0}<25}${cpu cpu0}%","color":"\#AAF096","separator":false,"separator_block_width":0},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${cpu cpu0}<50}${cpu cpu0}%","color":"\#F0DC64","separator":false,"separator_block_width":0},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${cpu cpu0}<75}${cpu cpu0}%","color":"\#FF9933","separator":false,"separator_block_width":0},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${cpu cpu0}<=100}${cpu cpu0}%","color":"\#FF3333","separator":false,"separator_block_width":0},\
+{"full_text":"${endif}${endif}${endif}${endif}"},\
+{"full_text":" ","color":"\#EEEEEE","separator":false,"separator_block_width":6},\
+
+#RAM
+{"full_text":"","color":"\#d5d5d5","separator":false,"separator_block_width":6},\
+{"full_text":"${if_match ${memperc}<30}${memeasyfree} ","color":"\#AAF096","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${memperc}<60}${memeasyfree} ","color":"\#F0DC64","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${memperc}<85}${memeasyfree} ","color":"\#FF9933","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${memperc}>=85}${memeasyfree} ","color":"\#FF3333","separator":false,"separator_block_width":6},\
+{"full_text":"${endif}${endif}${endif}${endif}"},\
+
+#Disk
+{"full_text":"","color":"\#d5d5d5","separator":false,"separator_block_width":6},\
+{"full_text":"${if_match ${fs_used_perc}<50}${fs_free} ","color":"\#AAF096","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${fs_used_perc}<80}${fs_free} ","color":"\#F0DC64","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${fs_used_perc}<88}${fs_free} ","color":"\#FF9933","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${fs_used_perc}>=95}${fs_free} ","color":"\#FF3333","separator":false,"separator_block_width":6},\
+{"full_text":"${endif}${endif}${endif}${endif}"},\
+
+#Battery
+{"full_text":"${if_match ${battery_percent BAT0}==100}  ${battery_percent BAT0}% ","color":"\#00FF00","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${battery_percent BAT0}>75}  ${battery_percent BAT0}% ","color":"\#AAF096","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${battery_percent BAT0}>60}  ${battery_percent BAT0}% ","color":"\#F0DC64","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${battery_percent BAT0}>45}  ${battery_percent BAT0}% ","color":"\#FF9933","separator":false,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":" ${battery_percent BAT0}% ","color":"\#FF3333","separator":false,"separator_block_width":6},\
+{"full_text":"${endif}${endif}${endif}${endif}"},\
+
+#Finds current volume. May need modified depending on your setup
+{"full_text":"","color":"\#d5d5d5","separator":false,"separator_block_width":6},\
+{"full_text":"${exec amixer get Master | grep 'Front Left:' | awk '{print $5}' | tr -d '[]'} ","color":"\#67a2b6","separator":false,"separator_block_width":6},\
+
+#Brighness
+{"full_text":"","color":"\#d5d5d5","separator":false,"separator_block_width":6},\
+{"full_text":"${exec xbacklight| awk '{printf("%d\n",$1 + 0.5)}'}% ","color":"\#67a2b6","separator":false,"separator_block_width":6},\
+
+#Calendar/time
+{"full_text":"","color":"\#d5d5d5","separator":false,"separator_block_width":6},\
+{"full_text":"${time %a %b %d} ","color":"\#8aacb8","separator":false},\
+
+{"full_text":"","color":"\#d5d5d5","separator":false,"separator_block_width":6},\
+{"full_text":"${time %H:%M:%S} ","color":"\#8aacb8","separator":false}
+],
