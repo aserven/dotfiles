@@ -108,6 +108,17 @@ set $workspace7 "7 "
 set $workspace8 "8 "
 set $workspace9 "9  "
 set $workspace10 "10 "
+set $workspace11 "11"
+set $workspace12 "12"
+set $workspace13 "13"
+set $workspace14 "14"
+set $workspace15 "15"
+set $workspace16 "16"
+set $workspace17 "17"
+set $workspace18 "18"
+set $workspace19 "19"
+set $workspace20 "20"
+
 
 set $main-display "eDP1"
 set $monitor "DP1-2"
@@ -123,6 +134,16 @@ bindsym $mod+7 workspace $workspace7
 bindsym $mod+8 workspace $workspace8
 bindsym $mod+9 workspace $workspace9
 bindsym $mod+0 workspace $workspace10
+bindsym $mod+Control+1 workspace $workspace11
+bindsym $mod+Control+2 workspace $workspace12
+bindsym $mod+Control+3 workspace $workspace13
+bindsym $mod+Control+4 workspace $workspace14
+bindsym $mod+Control+5 workspace $workspace15
+bindsym $mod+Control+6 workspace $workspace16
+bindsym $mod+Control+7 workspace $workspace17
+bindsym $mod+Control+8 workspace $workspace18
+bindsym $mod+Control+9 workspace $workspace19
+bindsym $mod+Control+0 workspace $workspace20
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace $workspace1
@@ -135,6 +156,16 @@ bindsym $mod+Shift+7 move container to workspace $workspace7
 bindsym $mod+Shift+8 move container to workspace $workspace8
 bindsym $mod+Shift+9 move container to workspace $workspace9
 bindsym $mod+Shift+0 move container to workspace $workspace10
+bindsym $mod+Control+Shift+1 move container to workspace $workspace11
+bindsym $mod+Control+Shift+2 move container to workspace $workspace12
+bindsym $mod+Control+Shift+3 move container to workspace $workspace13
+bindsym $mod+Control+Shift+4 move container to workspace $workspace14
+bindsym $mod+Control+Shift+5 move container to workspace $workspace15
+bindsym $mod+Control+Shift+6 move container to workspace $workspace16
+bindsym $mod+Control+Shift+7 move container to workspace $workspace17
+bindsym $mod+Control+Shift+8 move container to workspace $workspace18
+bindsym $mod+Control+Shift+9 move container to workspace $workspace19
+bindsym $mod+Control+Shift+0 move container to workspace $workspace20
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -200,7 +231,7 @@ set $bg-dark #212121
 set $lime    #76ff03
 
 # set some nice colors      border     background  text
-client.focused              $gn        $gn         $tx
+client.focused              $green2    $green2     $tx
 client.unfocused            $bg        $bg         $ia
 client.focused_inactive     $bg        $bg         $ac
 client.urgent               $rd        $rd         $tx
@@ -247,7 +278,7 @@ bar {
 }
 
 bar {
-    status_command i3blocks
+    # status_command i3blocks
     position top
     output eDP1
     tray_output eDP1
@@ -284,7 +315,7 @@ bindsym $mod+Shift+b move container to workspace back_and_forth
 #hide_edge_borders both
 
 exec --no-startup-id ~/.startup
-exec_always --no-startup-id feh --bg-scale /home/alberts/Pictures/background-13.2.png
+# exec_always --no-startup-id feh --bg-scale /home/alberts/Pictures/background-13.2.png
 # exec ssh-add ~/.ssh/authorized_keys/bitbucket
 exec xcompmgr -c -f -n
 exec --no-startup-id nm-applet
@@ -303,7 +334,7 @@ assign [class="Atom"] $workspace9
 assign [class="Firefox"] $workspace10
 assign [class="Thunderbird"] $workspace8
 assign [class="Franz"] $workspace6
-#assign [class="Google Chrome"] $workspace7
+assign [class="Google-chrome"] $workspace7
 #assign [class="Skype"] $workspace5
 
 workspace $workspace1 output $main-display
@@ -329,10 +360,14 @@ exec xautolock -detectsleep -time 5 -locker "/usr/local/bin/lock/lock -gpf Robot
 #exec --no-startup-id i3-msg 'workspace 1: term; exec terminator; workspace 2: code; exec atom; workspace 3: www; exec firefox; workspace 8: mail; exec thunderbird; workspace 8: mail; exec /opt/franz-3.1.1/Franz; workspace 8: mail; exec skype;'
 
 # i3-gaps
-for_window [class="^.*"] border pixel 0
+for_window [class="^.*"] border pixel 2
 
 gaps inner 4
 gaps outer 2
+
+smart_gaps on
+smart_borders no_gaps
+
 
 set $mode_gaps Gaps: (o) outer, (i) inner
 set $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)

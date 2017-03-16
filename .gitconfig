@@ -1,0 +1,17 @@
+[credential]
+	helper = cache --timeout=3600
+[core]
+	editor = vim
+[alias]
+	please = push --force-with-lease
+	command = commit --amend --no-edit
+	it = !git init && git commit -m \"root\" --allow-empty
+	stsh = stash --keep-index
+	staash = stash --include-untracked
+	staaash = stash --all
+	shorty = status --short --branch
+	merc = merge --no-ff
+	grog = log --graph --abbrev-commit --decorate --all --format=format:\"%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(dim white) - %an%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n %C(white)%s%C(reset)\"
+[user]
+	name = Albert Serven
+	email = albert.serven@bsc.es

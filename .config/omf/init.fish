@@ -19,13 +19,14 @@ set -gx SHELL /usr/bin/fish
 set -gx LESS "-g -i -M -R -w"
 
 set -x JAVA_HOME /usr/java/latest
-set -gx GOPATH /usr/local/go/bin
+set -gx GO_BIN_PATH /usr/local/go/bin
+set -gx GOPATH /home/alberts/go/
 
 set -g theme_display_ruby no
 set -g theme_display_virtualenv no
 
 set -x PATH ~/.minimesos/bin $PATH
-set -x PATH $JAVA_HOME/bin $PATH $GOPATH
+set -x PATH $JAVA_HOME/bin $PATH $GO_BIN_PATH
 
 set -x PATH $PATH /usr/lib64/mpi/gcc/openmpi/bin
 
@@ -76,4 +77,9 @@ function random-cow --description "Cowsay and Cowthink random"
     set cow (shuf -n 1 -e $cowfile)
     set command "$exe -$option -f $cow -n"
     eval $command
+end
+
+function download-directory --description "Download directory link using wget"
+    wget -r --no-parent -nd $argv
+    rm index.html*
 end
