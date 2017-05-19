@@ -26,6 +26,7 @@ set -g theme_display_ruby no
 set -g theme_display_virtualenv no
 
 set -x PATH ~/.minimesos/bin $PATH
+set -x PATH /opt/mongodb/mongodb-linux-x86_64-3.4.2/bin $PATH
 set -x PATH $JAVA_HOME/bin $PATH $GO_BIN_PATH
 
 set -x PATH $PATH /usr/lib64/mpi/gcc/openmpi/bin
@@ -39,7 +40,7 @@ set -x PATH $PATH $HADOOP_HOME/bin
 
 
 set -x GECODE_LIB ~/Programs/gecode-5.0.0/
-set -x LD_LIBRARY_PATH $GECODE_LIB:$LD_LIBRARY_PATH:/usr/local/lib64:/usr/local/lib
+set -x LD_LIBRARY_PATH $GECODE_LIB:$LD_LIBRARY_PATH
 
 alias lockscreen  "/usr/local/bin/lock/lock -gpf Roboto-Light"
 alias idea "sh /home/alberts/Programs/idea-IC-162.1628.40/bin/idea.sh > /dev/null 2>&1"

@@ -1,0 +1,10 @@
+#!/bin/bash 
+
+xrandr --output DP2 --auto --right-of eDP1
+xrandr --output HDMI1 --auto --right-of DP2
+xrandr --output eDP1 --primary
+
+setxkbmap -layout us,es
+setxkbmap -option 'grp:alt_shift_toggle'
+
+feh --bg-scale /home/alberts/Pictures/maia.png

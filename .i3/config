@@ -33,15 +33,21 @@ floating_modifier $mod
 # start a terminal
 bindsym $mod+Return exec terminator
 
+bindsym $mod+backslash   exec terminator -e ranger 
+
 # kill focused window
 bindsym $mod+Shift+q kill
 
+set $rofi-green     #66bb6a
 set $rofi-bg        #212121
+set $rofi-bg2       #313131
+set $rofi-bg3       #414141
 set $rofi-color     #fafafa
 set $rofi-selected  #76ff03
+set $rofi-selected2 #222222
 # start dmenu (a program launcher)
 #bindsym $mod+d exec dmenu_run -sb green -sf black -fn "-*-lucida-medium-*-normal-*-20-*-*-*-*-*-*-*" -l 10
-bindsym $mod+d exec "rofi -show run -lines 7 -opacity 90 -bw 5  -font \\"Roboto Light 20\\" -hide-scrollbar -color-window \\"$rofi-bg,$rofi-bg\\" -color-normal \\"$rofi-bg,$rofi-color,$rofi-bg,$rofi-bg,$rofi-selected\\""
+bindsym $mod+d exec "rofi -show run -lines 10 -opacity 90 -bw 1  -font \\"Roboto Thin 15\\" -hide-scrollbar  -yoffset -200  -padding 10 -color-window \\"$rofi-bg,$rofi-bg3\\" -color-normal \\"$rofi-bg,$rofi-color,$rofi-bg2,$rofi-green,$rofi-selected2\\" -regex -line-margin 5"
 
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
@@ -198,6 +204,21 @@ mode "resize" {
         bindsym Escape mode "default"
 }
 
+set $mode_power power
+bindsym $mod+Control+p mode "$mode_power"
+mode "$mode_power" {
+    bindsym l mode "default", exec --no-startup-id $HOME/.i3/i3exit lock
+    bindsym e mode "default", exec --no-startup-id $HOME/.i3/i3exit logout
+    bindsym s mode "default", exec --no-startup-id $HOME/.i3/i3exit suspend
+    bindsym h mode "default", exec --no-startup-id $HOME/.i3/i3exit hibernate
+    bindsym r mode "default", exec --no-startup-id $HOME/.i3/i3exit reboot
+    bindsym p mode "default", exec --no-startup-id $HOME/.i3/i3exit shutdown
+
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+}
+
+
 bindsym $mod+r mode "resize"
 
 # color defines for zenburn styled i3
@@ -261,47 +282,76 @@ client.urgent               $rd        $rd         $tx
 #    status_command $HOME/.i3/i3bar-conky
 #    # status_command i3status
 #}
+set $height 27
 
 bar {
-    font pango:Source Sans Pro-10 10
+    # font pango:Source Sans Pro-10 10
+    font pango:Roboto Thin 11
+    height $height
     colors {
-        separator $rd
-        background $bg-dark
-        statusline #839496
-        focused_workspace #fdf6e3 $green2 #fdf6e3
-        active_workspace #fdf6e3 $lgrey #fdf6e3
-        inactive_workspace $bg-dark #586e75 $bg-dark
-        urgent_workspace $lred $lred #fdf6e3
+        statusline         $white
+        background         $bg-dark
+        separator          $bg-dark
+#                                      BORDER BACKGROUND TEXT
+        focused_workspace  $bg-dark $bg-dark $green
+        inactive_workspace $bg-dark $bg-dark $lgrey
+        active_workspace   $bg-dark $bg-dark $white
+        urgent_workspace   $darkred     $darkred     $bg-dark
+        binding_mode $darkred $darkred $bg-dark
+
+        # background $bg-dark
+        # statusline #839496
+        # focused_workspace #fdf6e3 $green2 #fdf6e3
+        # active_workspace #fdf6e3 $lgrey #fdf6e3
+        # inactive_workspace $bg-dark #586e75 $bg-dark
+        # urgent_workspace $lred $lred #fdf6e3
     }
+    tray_output eDP1
+    tray_padding 0
+    output DP2
     output DP1-2
+    output HDMI1
     position top
 }
 
 bar {
     # status_command i3blocks
+    height $height
     position top
     output eDP1
     tray_output eDP1
+    tray_padding 0
 
-    font pango:Source Sans Pro-10 10
+    # font pango:Source Sans Pro-10 10
+    font pango:Roboto Thin 11
     status_command i3blocks -c ~/.i3/i3blocks.conf
     colors {
-        separator $rd
-        background $bg-dark
-        statusline #839496
-        focused_workspace #fdf6e3 $green2 #fdf6e3
-        active_workspace #fdf6e3 $lgrey #fdf6e3
-        inactive_workspace $bg-dark #586e75 $bg-dark
-        urgent_workspace $lred $lred #fdf6e3
+        statusline         $white
+        background         $bg-dark
+        separator          $bg-dark
+#                                      BORDER BACKGROUND TEXT
+        focused_workspace  $bg-dark $bg-dark $green
+        inactive_workspace $bg-dark $bg-dark $lgrey
+        active_workspace   $bg-dark $bg-dark $white
+        urgent_workspace   $darkred     $darkred     $bg-dark
+        binding_mode $darkred $darkred $bg-dark
+
+        # background $bg-dark
+        # statusline #839496
+        # focused_workspace #fdf6e3 $green2 #fdf6e3
+        # active_workspace #fdf6e3 $lgrey #fdf6e3
+        # inactive_workspace $bg-dark #586e75 $bg-dark
+        # urgent_workspace $lred $lred #fdf6e3
     }
 }
+
 
 # --------------------------------------- CUSTOM
 
 bindsym $mod+Tab workspace next
 bindsym $mod+Shift+Tab workspace prev
 bindsym $mod+m move workspace to output left
-bindsym Control+mod1+l exec /usr/local/bin/lock/lock -gpf Roboto-Light
+bindsym Control+mod1+l exec /usr/local/bin/lock/lock -gpf Roboto-Thin
 
 # switch between the current and the previously focused one
 bindsym $mod+b workspace back_and_forth
@@ -309,6 +359,18 @@ bindsym $mod+Shift+b move container to workspace back_and_forth
 
 # # move the whole workspace to the next output
  bindsym $mod+x move workspace to output right
+ bindsym $mod+Shift+x move workspace to output left
+ 
+ # Make the currently focused window a scratchpad
+ bindsym $mod+Shift+minus move scratchpad
+ 
+# Show the first scratchpad window
+ bindsym $mod+minus scratchpad show
+ bindsym $mod+equal [class="Telegram"] scratchpad show
+
+# Show the sup-mail scratchpad window, if any.
+bindsym $mod+p [class="Atom"] scratchpad show
+bindsym $mod+n [class="Terminator"] scratchpad show
 
 # exec --no-startup-id feh --bg-scale /home/bellahora-04/Pictures/gsxt1v2.png
 #new_window pixel 2
@@ -328,14 +390,15 @@ bindsym XF86AudioMute exec amixer -q sset 'Master' toggle
 bindsym XF86MonBrightnessDown exec xbacklight -dec 5%
 bindsym XF86MonBrightnessUp exec xbacklight -inc 5%
 
-for_window [class="Skype"] floating enable
+# for_window [class="Skype"] floating enable
 
 assign [class="Atom"] $workspace9
 assign [class="Firefox"] $workspace10
 assign [class="Thunderbird"] $workspace8
-assign [class="Franz"] $workspace6
+# assign [class="Franz"] $workspace6
 assign [class="Google-chrome"] $workspace7
-#assign [class="Skype"] $workspace5
+assign [class="Skype"] $workspace6
+assign [class="Telegram"] $workspace6
 
 workspace $workspace1 output $main-display
 workspace $workspace5 output $main-display
@@ -351,13 +414,19 @@ exec --no-startup-id terminator
 exec --no-startup-id atom
 exec --no-startup-id firefox
 exec --no-startup-id thunderbird
-exec --no-startup-id /opt/Franz/latest/Franz
+# exec --no-startup-id /opt/Franz/latest/Franz
 exec --no-startup-id google-chrome-stable
-# exec --no-startup-id skype
+exec --no-startup-id skype
+exec --no-startup-id Telegram
 
-exec xautolock -detectsleep -time 5 -locker "/usr/local/bin/lock/lock -gpf Roboto-Light"
+exec xautolock -detectsleep -time 5 -locker "/usr/local/bin/lock/lock -gpf Roboto-Thin"
 
 #exec --no-startup-id i3-msg 'workspace 1: term; exec terminator; workspace 2: code; exec atom; workspace 3: www; exec firefox; workspace 8: mail; exec thunderbird; workspace 8: mail; exec /opt/franz-3.1.1/Franz; workspace 8: mail; exec skype;'
+
+bindsym $mod+y resize shrink width 10 px or 10 ppt
+bindsym $mod+u resize grow height 10 px or 10 ppt
+bindsym $mod+i resize shrink height 10 px or 10 ppt
+bindsym $mod+o resize grow width 10 px or 10 ppt
 
 # i3-gaps
 for_window [class="^.*"] border pixel 2

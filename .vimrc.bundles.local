@@ -1,0 +1,4 @@
+
+Bundle 'ekalinin/Dockerfile.vim'
+Bundle 'fatih/vim-go'
+Bundle 'junegunn/goyo.vim'
