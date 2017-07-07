@@ -11,7 +11,7 @@ elif [[ "${BLOCK_BUTTON}" -eq 3 ]]; then
   xbacklight -dec 5
 fi
 
-URGENT_VALUE=10
+URGENT_VALUE=4
 
 if [[ "${METHOD}" = "xrandr" ]]; then
   device="${BLOCK_INSTANCE:-primary}"

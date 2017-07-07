@@ -33,7 +33,7 @@ floating_modifier $mod
 # start a terminal
 bindsym $mod+Return exec terminator
 
-bindsym $mod+backslash   exec terminator -e ranger 
+bindsym $mod+backslash   exec terminator -e ranger
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -105,10 +105,10 @@ bindsym $mod+a focus parent
 bindsym $mod+z focus child
 
 set $workspace1 "1 "
-set $workspace2 "2 "
-set $workspace3 "3 "
+set $workspace2 "2 "
+set $workspace3 "3 "
 set $workspace4 "4 "
-set $workspace5 "5 "
+set $workspace5 "5 "
 set $workspace6 "6 "
 set $workspace7 "7 "
 set $workspace8 "8 "
@@ -360,10 +360,10 @@ bindsym $mod+Shift+b move container to workspace back_and_forth
 # # move the whole workspace to the next output
  bindsym $mod+x move workspace to output right
  bindsym $mod+Shift+x move workspace to output left
- 
+
  # Make the currently focused window a scratchpad
  bindsym $mod+Shift+minus move scratchpad
- 
+
 # Show the first scratchpad window
  bindsym $mod+minus scratchpad show
  bindsym $mod+equal [class="Telegram"] scratchpad show
@@ -399,6 +399,7 @@ assign [class="Thunderbird"] $workspace8
 assign [class="Google-chrome"] $workspace7
 assign [class="Skype"] $workspace6
 assign [class="Telegram"] $workspace6
+assign [class="Slack"] $workspace6
 
 workspace $workspace1 output $main-display
 workspace $workspace5 output $main-display
@@ -418,6 +419,7 @@ exec --no-startup-id thunderbird
 exec --no-startup-id google-chrome-stable
 exec --no-startup-id skype
 exec --no-startup-id Telegram
+exec --no-startup-id slack
 
 exec xautolock -detectsleep -time 5 -locker "/usr/local/bin/lock/lock -gpf Roboto-Thin"
 
@@ -476,3 +478,13 @@ mode "$mode_gaps_outer" {
     bindsym Return mode "default"
     bindsym Escape mode "default"
 }
+
+
+bindsym $mod+bracketright   gaps inner current plus 5
+bindsym $mod+bracketleft	gaps inner current minus 5
+
+bindsym $mod+Shift+bracketright    gaps outer current plus 5
+bindsym $mod+Shift+bracketleft	gaps outer current minus 5
+
+bindsym $mod+semicolon	gaps inner all set 15; gaps outer all set 15
+bindsym $mod+Shift+semicolon	gaps inner all set 0; gaps outer all set 0
