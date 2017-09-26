@@ -6,4 +6,7 @@ xrandr --output eDP1 --primary
 setxkbmap -layout us,es
 setxkbmap -option 'grp:alt_shift_toggle'
 
-feh --bg-scale /home/alberts/Pictures/maia.png
+xmodmap ~/.Xmodmap
+
+# feh --bg-scale /home/alberts/Pictures/maia.png
+feh --bg-scale /home/alberts/Pictures/free-your-soul-wallpaper.jpg

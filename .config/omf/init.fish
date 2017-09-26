@@ -10,6 +10,7 @@ function fish_greeting
     fortune | fmt -80 -s | random-cow | lolcat
 end
 
+source /home/alberts/anaconda3/etc/fish/conf.d/conda.fish
 
 alias tmux "tmux -2"
 alias lolcat lolcat.ruby2.1
@@ -17,6 +18,8 @@ alias lolcat lolcat.ruby2.1
 set -gx EDITOR vim
 set -gx SHELL /usr/bin/fish
 set -gx LESS "-g -i -M -R -w"
+
+set -x CONDA_PATH /home/alberts/anaconda3/bin
 
 set -x JAVA_HOME /usr/java/latest
 set -gx GO_BIN_PATH /usr/local/go/bin
@@ -28,6 +31,8 @@ set -g theme_display_virtualenv no
 set -x PATH ~/.minimesos/bin $PATH
 set -x PATH /opt/mongodb/mongodb-linux-x86_64-3.4.2/bin $PATH
 set -x PATH $JAVA_HOME/bin $PATH $GO_BIN_PATH
+set -x PATH $CONDA_PATH $PATH
+set -x PATH $PATH ~/.local/bin/
 
 set -x PATH $PATH /usr/lib64/mpi/gcc/openmpi/bin
 
