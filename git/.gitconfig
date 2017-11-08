@@ -15,3 +15,5 @@
 [user]
 	name = Albert Serven
 	email = albert.serven@bsc.es
+[push]
+	default = simple

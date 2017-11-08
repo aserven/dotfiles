@@ -35,6 +35,7 @@ set -x PATH $CONDA_PATH $PATH
 set -x PATH $PATH ~/.local/bin/
 
 set -x PATH $PATH /usr/lib64/mpi/gcc/openmpi/bin
+set -x PATH $PATH ~/.vim/bundle/vim-live-latex-preview/bin
 
 set -e PYTHONSTARTUP
 #set -x PYTHONHOME $PYTHONHOME:/usr/local/
