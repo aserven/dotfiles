@@ -12,9 +12,9 @@ These configuration files are managed with the tool GNU Stow:
 
 ### Quick Reference:
 
-    - `-t DIR` Set the target directory
-    - `-R` Restow packages that follow this option
-    - `-D` Unstow the packages that follow this option
+- `-t DIR` Set the target directory
+- `-R` Restow packages that follow this option
+- `-D` Unstow the packages that follow this option
 
 For more info look at `man stow`.
 
