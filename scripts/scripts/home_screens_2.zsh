@@ -1,6 +1,6 @@
 #! /usr/bin/zsh
 
 
-xrandr --output LVDS-1 --auto --primary
-xrandr --output VGA-1 --right-of LVDS-1 --rotate right --auto
+xrandr --output LVDS1 --auto --primary
+xrandr --output VGA1 --right-of LVDS1 --rotate right --auto
 

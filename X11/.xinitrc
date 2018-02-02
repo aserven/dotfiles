@@ -7,15 +7,16 @@ xrdb -merge .Xresources
 # Set up an icon tray
 
 trayer --edge top --align right --SetDockType true --SetPartialStrut true \
-	--expand true --width 10 --transparent true --tint 0x000000 --height 22 &
+	--expand true --width 5 --transparent true --tint 0x000000 --height 22 &
 
 # Set the background color
 
-feh --bg-scale ~/Pictures/walls/this-is-freedom-wallpaper.png
+# feh --bg-scale ~/Pictures/walls/this-is-freedom-wallpaper.png
 
 # Fire up apps
 # gajim &
 
+xsetroot -cursor_name arrow
 xscreensaver -no-splash &
 # xmodmap ~/scripts/capslock-ctrl.zsh
 
@@ -32,4 +33,6 @@ if [ -x /usr/bin/xfce4-power-manager ]; then
   xfce4-power-manager &
 fi
 
-# exec xmonad
+
+exec xmonad
+

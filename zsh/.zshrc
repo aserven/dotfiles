@@ -20,10 +20,11 @@ prompt adam2
 # zstyle ':completion:*:warnings' format '%BSorry, no matches for: %d%b'
 zstyle ':completion:*' menu select
 
-
+USER_LOCAL="${HOME}/.local"
 LATEX_PREVIEW="${HOME}/.local/share/nvim/plugged/vim-live-latex-preview"
 NPM_PACKAGES="${HOME}/.npm-packages"
-PATH="$LATEX_PREVIEW/bin:$NPM_PACKAGES/bin:$PATH"
+ANACONDA="${HOME}/anaconda3"
+PATH="$USER_LOCAL/bin:$LATEX_PREVIEW/bin:$NPM_PACKAGES/bin:$ANACONDA/bin:$PATH"
 
 unset MANPATH
 export MANPATH="$NPM_PACKAGES/share/man:$(manpath)"

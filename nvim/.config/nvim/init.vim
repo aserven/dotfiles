@@ -17,6 +17,10 @@ Plug 'chrisbra/colorizer'
 Plug 'chriskempson/base16-vim'
 Plug 'morhetz/gruvbox'
 
+" Haskell
+"Plug 'enomsg/vim-haskellConcealPlus'
+Plug 'Twinside/vim-haskellConceal'
+Plug 'travitch/hasksyn'
 
 call plug#end()
 
@@ -30,6 +34,7 @@ set softtabstop=4
 set shiftwidth=4
 set incsearch
 set hlsearch
+set spell spelllang=en_us
 set background=dark    " Setting dark mode
 
 let g:gruvbox_italic=1
@@ -39,4 +44,6 @@ let g:ycm_path_to_python_interpreter = '/usr/bin/python'
 let g:python_host_prog = '/usr/bin/python2.7'
 let g:python3_host_prog = '/usr/bin/python3.6'
 
+
 colorscheme gruvbox
+hi SpellBad cterm=reverse gui=reverse

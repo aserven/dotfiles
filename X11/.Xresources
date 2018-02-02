@@ -27,7 +27,10 @@ URxvt*buffered: true
 URxvt.cursorBlink:true
 URxvt.pointerBlank:true
 URxvt.letterSpace: -1
-URxvt.font: xft:Monoid:style=Regular:size=8
+URxvt.font: xft:Monoid:style=Regular:size=8:antialias=true,xft:Monoisome:size=9:antialias=true
+!,\
+! xft:Monoisome:style=Regular:size=10
+!URxvt.font: xft:Dejavu Sans Mono for Powerline:style=Regular:size=8
 ! URxvt.boldFont: xft:ypn monospace:size=8
 
 URxvt.saveLines:65535
@@ -37,6 +40,7 @@ URxvt.perl-ext:
 URxvt.perl-ext-common:default,clipboard,resize-font,matcher,url-select
 URxvt.url-launcher:/usr/bin/firefox
 URxvt.matcher.button:1
+URxvt.urgentOnBell: true
 
 URxvt.transparent: true
 URxvt.shading:20
