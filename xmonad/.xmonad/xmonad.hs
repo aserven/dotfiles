@@ -20,6 +20,8 @@ import XMonad.Layout.Accordion
 import XMonad.Layout.NoBorders
 import XMonad.Layout.Minimize
 import XMonad.Layout.BinarySpacePartition
+import XMonad.Layout.SubLayouts
+import XMonad.Layout.Simplest
 
 import System.IO
 
@@ -48,19 +50,30 @@ main = do
 colorGreen = "#22aa22"
 myFocusBorderColor = colorGreen
 
+workspace1Term = "1: <fn=1>\xf120</fn>" 
+workspace8Msgs = "8: <fn=1>\xf27a</fn>"
+workspace9Mail = "9: <fn=1>\xf0e0</fn>"
+
+
 myModKey = mod4Mask
 myTerminal = "urxvt"
 myStatusBar = "xmobar ~/.xmonad/xmobar.conf"
 myWorkspaces = 
-        [ "1: <fn=1>\xf120</fn>"]
+        [ workspace1Term ]
         ++ map show [2..7] ++ [
-          "8: <fn=1>\xf27a</fn>"
-        , "9: <fn=1>\xf0e0</fn>"
+          workspace8Msgs
+        , workspace9Mail
         ]
 
 myManageHook = manageDocks <+> manageHook defaultConfig
 -- myLayoutHook = (gaps [(U,22), (D,5), (L,5), (R,5)] $ spacing 5 $ emptyBSP) ||| noBorders Full -- layoutHook defaultConfig
-myLayoutHook = named "<fn=1>\xf1e0</fn> BSP" (avoidStruts $ smartSpacingWithEdge 5 $ smartBorders $ emptyBSP) ||| noBorders Full -- layoutHook defaultConfig
+myLayoutHook = named "<fn=1>\xf1e0</fn> BSP" 
+                    ( avoidStruts 
+                    $ smartSpacingWithEdge 5 
+                    $ smartBorders 
+                    -- $ (addTabs shrinkText def) 
+                    -- $ subLayout [] Simplest
+                    $ emptyBSP) ||| noBorders Full -- layoutHook defaultConfig
 -- mylayoutHook = Full ||| (tabbed shrinkText def) ||| Accordion
 -- myLayoutHook = minimize $ avoidStruts $ smartBorders (Full ||| Tall 1 (3/100) (1/2) ||| Mirror (Tall 1 (3/100) (1/2)) )
 myEventHook = ewmhDesktopsEventHook
@@ -104,6 +117,11 @@ addKeys = [ ("M-p", spawn "rofi -show run")
           , ("<XF86AudioLowerVolume>", spawn "amixer -q sset Master 2%-")
           , ("<XF86AudioRaiseVolume>", spawn "amixer -q sset Master 2%+")
           , ("<XF86AudioMute>", spawn "amixer -q sset Master toggle")
+
+          , ("<XF86AudioStop>", spawn "mpc stop")
+          , ("<XF86AudioPlay>", spawn "mpc toggle")
+          , ("<XF86AudioNext>", spawn "mpc next")
+          , ("<XF86AudioPrev>", spawn "mpc prev")
 	  ]
 
 

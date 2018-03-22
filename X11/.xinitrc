@@ -7,11 +7,11 @@ xrdb -merge .Xresources
 # Set up an icon tray
 
 trayer --edge top --align right --SetDockType true --SetPartialStrut true \
-	--expand true --width 5 --transparent true --tint 0x000000 --height 22 &
+	--expand true --width 6 --transparent true --tint 0x000000 --height 20 &
 
 # Set the background color
 
-# feh --bg-scale ~/Pictures/walls/this-is-freedom-wallpaper.png
+feh --bg-scale ~/Pictures/walls/Xmonad_wallpaper_2.jpg
 
 # Fire up apps
 # gajim &
@@ -32,6 +32,8 @@ if [ -x /usr/bin/xfce4-power-manager ]; then
   sleep 3
   xfce4-power-manager &
 fi
+
+[ ! -s ~/.config/mpd/pid ] && mpd
 
 
 exec xmonad

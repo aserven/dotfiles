@@ -43,4 +43,5 @@ alias vim="nvim"
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-neofetch
+# neofetch
+fortune | cowsay | lolcat

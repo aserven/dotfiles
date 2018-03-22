@@ -22,6 +22,8 @@ Plug 'morhetz/gruvbox'
 Plug 'Twinside/vim-haskellConceal'
 Plug 'travitch/hasksyn'
 
+Plug 'purescript-contrib/purescript-vim'
+
 call plug#end()
 
 syntax enable
