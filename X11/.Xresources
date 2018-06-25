@@ -13,7 +13,7 @@ Xft.autohint: 1
 !URxvt.iso14755_52: false
 
 !xscreensaver.newLoginCommand: dm-tool switch-to-greeter
-! URxvt*termName: xterm-256color
+URxvt*termName: xterm-256color
 
 !URxvt.colorBD:#ffffff
 !URxvt.colorUL:#ffffff
@@ -27,7 +27,8 @@ URxvt.buffered: true
 URxvt.cursorBlink:true
 URxvt.pointerBlank:true
 URxvt.letterSpace: -1
-URxvt.font: xft:Monoid:style=Regular:pixelsize=12:antialias=true,xft:Monoisome:pixelsize=14:antialias=true
+URxvt.font: xft:Monoid Nerd Font Mono:style=Regular:pixelsize=12:antialias=true
+!,xft:Monoisome:pixelsize=14:antialias=true
 !,\
 ! xft:Monoisome:style=Regular:size=10
 !URxvt.font: xft:Dejavu Sans Mono for Powerline:style=Regular:size=8
@@ -39,13 +40,16 @@ URxvt.utmpInhibit:true
 URxvt.skipBuiltinGlyphs:true
 URxvt.perl-ext:
 URxvt.perl-ext-common:default,clipboard,resize-font,matcher,url-select
-URxvt.url-launcher:/usr/bin/firefox
+URxvt.url-launcher:/usr/bin/iceweasel
 URxvt.matcher.button:1
 URxvt.urgentOnBell: true
 
-URxvt.transparent: true
-URxvt.shading:20
+! URxvt.transparent: true
+! URxvt.shading:20
+URxvt*depth: 32
+URxvt*background: rgba:1100/1100/1100/bb00
 
+URxvt*fading: 20
 ! url selection
 URxvt.keysym.M-u: perl:url-select:select_next
 ! Set terminal padding
@@ -229,3 +233,6 @@ xscreensaver.passwd.thermometer.width: 8
 ! xscreensaver.splash.body2.label: Jamie Zawinski <jwz@jwz.org>
 ! xscreensaver.splash.demo.label: Settings
 ! xscreensaver.splash.help.label: Help
+
+
+! vim: nospell

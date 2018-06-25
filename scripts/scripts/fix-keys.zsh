@@ -1,4 +1,4 @@
-#! /usr/bin/zsh
+#!/usr/bin/zsh
 
 sudo pacman -Scc
 sudo pacman -Syy archlinux-keyring archlinux32-keyring archlinuxarm-keyring parabola-keyring

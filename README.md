@@ -30,3 +30,7 @@ To remove:
 
 ```bash
 stow -D <FOLDER> -t ~
+
+### Screenshot
+
+![Example of dotfiles](./screenshots/2018-06-25-225326_2560x1080_scrot.png)

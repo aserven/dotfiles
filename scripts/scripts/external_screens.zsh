@@ -1,4 +1,4 @@
-#! /usr/bin/zsh
+#!/usr/bin/zsh
 
 hdmi2_connected=$(xrandr -q | grep "HDMI2 connected")
 vga1_connected=$(xrandr -q | grep "VGA1 connected")
