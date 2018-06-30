@@ -11,15 +11,15 @@ xrdb -merge .Xresources
 
 # Set the background color
 
-feh --bg-scale ~/Pictures/walls/Xmonad_wallpaper_2.jpg
+feh --bg-scale ~/Pictures/walls/xmonadTrees.jpg
 
 # Fire up apps
 # gajim &
 
 xsetroot -cursor_name arrow
 setxkbmap -layout us,es -option 'grp:alt_shift_toggle' 
+xmodmap ~/scripts/capslock-ctrl.zsh
 # xscreensaver -no-splash &
-# xmodmap ~/scripts/capslock-ctrl.zsh
 synclient TouchpadOff=1
 
 /usr/lib/notification-daemon-1.0/notification-daemon &
@@ -36,7 +36,7 @@ fi
 
 [ ! -s ~/.config/mpd/pid ] && mpd
 
-conky -c ~/.config/conky/conky.conf &
+conky -c ~/.config/conky/config.conf &
 
 
 exec xmonad

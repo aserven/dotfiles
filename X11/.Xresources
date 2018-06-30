@@ -64,175 +64,28 @@ URxvt.iso14755: false
 *.cursorColor:  #00ff00
 
 
-! black
-*.color0:       #1f1f1f
-*.color8:       #d6dbe5
+! black, red, green, yellow, blue, purple, blue, white
+*.color0:      #2c2c2c
+*.color1:      #c62828
+!*.color2:      #558b2e
+!*.color2:      #259e83
+*.color2:      #50b19b
+*.color3:      #f9a825
+! *.color4:      #1565c1
+*.color4:      #2c74c7
+! *.color5:      #9a1e9a
+*.color5:      #a434a4
+*.color6:      #00838f
+*.color7:      #ffffff
 
-! red
-*.color1:       #f81118
-*.color9:       #de352e
-
-! green
-*.color2:       #2dc55e
-*.color10:      #1dd361
-
-! yellow
-*.color3:       #ecba0f
-*.color11:      #f3bd09
-
-! blue
-*.color4:       #2a84d2
-*.color12:      #1081d6
-
-! magenta
-*.color5:       #4e5ab7
-*.color13:      #5350b9
-
-! cyan
-*.color6:       #1081d6
-*.color14:      #0f7ddb
-
-! white
-*.color7:       #d6dbe5
-*.color15: #ffffff
-
-
-
-! xscreensaver
-!
-! xscreensaver.mode: random
-! xscreensaver.timeout: 0:10:00
-! xscreensaver.cycle: 0:10:00
-! xscreensaver.lockTimeout: 0:00:00
-! xscreensaver.passwdTimeout: 0:00:30
-! xscreensaver.dpmsEnabled: False
-! xscreensaver.dpmsQuickoffEnabled: False
-! xscreensaver.dpmsStandby: 2:00:00
-! xscreensaver.dpmsSuspend: 2:00:00
-! xscreensaver.dpmsOff: 4:00:00
-! xscreensaver.grabDesktopImages: True
-! xscreensaver.grabVideoFrames: False
-! xscreensaver.chooseRandomImages: True
-
-! This can be a local directory name, or the URL of an RSS or Atom feed.
-! xscreensaver.imageDirectory: /usr/share/wallpapers/
-! xscreensaver.nice: 10
-! xscreensaver.memoryLimit: 0
-! xscreensaver.lock: False
-! xscreensaver.verbose: False
-! xscreensaver.timestamp: True
-! xscreensaver.fade: True
-! xscreensaver.unfade: False
-! xscreensaver.fadeSeconds: 0:00:03
-! xscreensaver.fadeTicks: 20
-! xscreensaver.splash: True
-! xscreensaver.splashDuration: 0:00:05
-! xscreensaver.visualID: default
-! xscreensaver.captureStderr: True
-! xscreensaver.ignoreUninstalledPrograms: False
-
-! xscreensaver.textMode: file
-! xscreensaver.textLiteral: XScreenSaver
-! xscreensaver.textFile:
-! xscreensaver.textProgram: fortune
-! xscreensaver.textURL: http://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss
-
-! xscreensaver.overlayTextForeground: #FFFF00
-! xscreensaver.overlayTextBackground: #000000
-! xscreensaver.overlayStderr: True
-xscreensaver.font: *-medium-r-*-140-*-m-*
-
-! The default is to use these extensions if available (as noted.)
-! xscreensaver.sgiSaverExtension: True
-! xscreensaver.xidleExtension: True
-! xscreensaver.procInterrupts: True
-
-! Turning this on makes pointerHysteresis not work.
-! xscreensaver.xinputExtensionDev: False
-
-! Set this to True if you are experiencing longstanding XFree86 bug #421
-! (xscreensaver not covering the whole screen)
-! xscreensaver.GetViewPortIsFullOfLies: False
-
-! This is what the "Demo" button on the splash screen runs (/bin/sh syntax.)
-! xscreensaver.demoCommand: xscreensaver-demo
-
-! This is what the "Prefs" button on the splash screen runs (/bin/sh syntax.)
-! xscreensaver.prefsCommand: xscreensaver-demo -prefs
-
-! This is the URL loaded by the "Help" button on the splash screen,
-! and by the "Documentation" menu item in xscreensaver-demo.
-! xscreensaver.helpURL: http://www.jwz.org/xscreensaver/man.html
-
-! loadURL       -- how the "Help" buttons load the helpURL (/bin/sh syntax.)
-! xscreensaver.loadURL: firefox '%s' || mozilla '%s' || netscape '%s'
-
-! manualCommand -- how the "Documentation" buttons display man pages.
-! xscreensaver.manualCommand: xterm -sb -fg black -bg gray75 -T '%s manual' -e /bin/sh -c 'man "%s" ; read foo'
-
-! The format used for printing the date and time in the password dialog box
-! To show the time only:  %I:%M %p
-! For 24 hour time: %H:%M
-! xscreensaver.dateFormat: %d-%b-%y (%a); %I:%M %p
-
-! This command is executed by the "New Login" button on the lock dialog.
-! (That button does not appear on the dialog if this program does not exist.)
-! For Gnome: probably "gdmflexiserver -ls".  KDE, probably "kdmctl reserve".
-! Or maybe yet another wheel-reinvention, "lxdm -c USER_SWITCH".
-! xscreensaver.newLoginCommand: kdmctl reserve
-! xscreensaver.installColormap: True
-! xscreensaver.pointerPollTime: 0:00:05
-! xscreensaver.pointerHysteresis: 10
-! xscreensaver.initialDelay: 0:00:00
-! xscreensaver.windowCreationTimeout: 0:00:30
-! xscreensaver.bourneShell: /bin/sh
-
-! Resources for the password and splash-screen dialog boxes of
-! the "xscreensaver" daemon.
-xscreensaver.Dialog.headingFont: *-helvetica-bold-r-*-*-*-180-*-*-*-iso8859-1
-xscreensaver.Dialog.bodyFont: *-helvetica-bold-r-*-*-*-140-*-*-*-iso8859-1
-xscreensaver.Dialog.labelFont: *-helvetica-bold-r-*-*-*-140-*-*-*-iso8859-1
-xscreensaver.Dialog.unameFont: *-helvetica-bold-r-*-*-*-120-*-*-*-iso8859-1
-xscreensaver.Dialog.buttonFont: *-helvetica-bold-r-*-*-*-140-*-*-*-iso8859-1
-xscreensaver.Dialog.dateFont: *-helvetica-medium-r-*-*-*-80-*-*-*-iso8859-1
-
-! Helvetica asterisks look terrible.
-xscreensaver.passwd.passwdFont: *-courier-medium-r-*-*-*-140-*-*-*-iso8859-1
-
-
-xscreensaver.Dialog.foreground: #000000
-xscreensaver.Dialog.background: #E6E6E6
-xscreensaver.Dialog.Button.foreground: #000000
-xscreensaver.Dialog.Button.background: #F5F5F5
-
-!*Dialog.Button.pointBackground: #EAEAEA
-!*Dialog.Button.clickBackground: #C3C3C3
-xscreensaver.Dialog.text.foreground: #000000
-xscreensaver.Dialog.text.background: #FFFFFF
-xscreensaver.passwd.thermometer.foreground: #4464AC
-xscreensaver.passwd.thermometer.background: #FFFFFF
-xscreensaver.Dialog.topShadowColor: #FFFFFF
-xscreensaver.Dialog.bottomShadowColor: #CECECE
-xscreensaver.Dialog.logo.width: 210
-xscreensaver.Dialog.logo.height: 210
-xscreensaver.Dialog.internalBorderWidth: 24
-xscreensaver.Dialog.borderWidth: 1
-xscreensaver.Dialog.shadowThickness: 2
-
-xscreensaver.passwd.heading.label: XScreenSaver %s
-xscreensaver.passwd.body.label: This screen is locked.
-xscreensaver.passwd.unlock.label: OK
-xscreensaver.passwd.login.label: New Login
-xscreensaver.passwd.user.label: Username:
-xscreensaver.passwd.thermometer.width: 8
-! xscreensaver.passwd.asterisks: True
-! xscreensaver.passwd.uname: True
-
-! xscreensaver.splash.heading.label: XScreenSaver %s
-! xscreensaver.splash.body.label: Copyright © 1991-2013 by
-! xscreensaver.splash.body2.label: Jamie Zawinski <jwz@jwz.org>
-! xscreensaver.splash.demo.label: Settings
-! xscreensaver.splash.help.label: Help
+*.color8:      #969694
+*.color9:      #f15250
+*.color10:     #86bd47
+*.color11:     #f8e63a
+*.color12:     #77b2f6
+*.color13:     #b963c8
+*.color14:     #25c3dc
+*.color15:     #ffffff
 
 
 ! vim: nospell
