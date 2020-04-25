@@ -1,25 +1,26 @@
-rofi.color-enabled: true
+!rofi.color-enabled: true
 
 !                   background      border          separator
-rofi.color-window: argb:ee292f37, argb:00292f37, #259E83
+!rofi.color-window: argb:ee292f37, argb:00292f37, #259E83
 
 !                    bg             fg       bgalt          hlbg           hlfg
-rofi.color-normal: argb:02000000, #ffffff, argb:02000000, argb:02000000, #259E83
-rofi.color-active: argb:02000000, #ffffff, argb:02000000, argb:02000000, #ffffff
-rofi.color-urgent: argb:02000000, #ffffff, argb:02000000, argb:02000000, #ffffff
+!rofi.color-normal: argb:02000000, #ffffff, argb:02000000, argb:02000000, #259E83
+!rofi.color-active: argb:02000000, #ffffff, argb:02000000, argb:02000000, #ffffff
+!rofi.color-urgent: argb:02000000, #ffffff, argb:02000000, argb:02000000, #ffffff
 
-rofi.font: Monoid Regular 13
+rofi.font: FuraCode Nerd Font 14
 rofi.eh: 1
-rofi.line-margin: 0
-rofi.line-padding: 20
-rofi.separator-style: solid
-rofi.hide-scrollbar: true
+!rofi.line-margin: 0
+!rofi.line-padding: 20
+!rofi.separator-style: solid
+!rofi.hide-scrollbar: true
 rofi.lines: 5
 rofi.width: 100
 rofi.padding: 425
-rofi.bw: 0
+!rofi.bw: 0
 
-rofi.location = 0
+!rofi.location = 0
 
 !rofi.auto-select: true
 rofi.show-icons: true
+!37 158 131

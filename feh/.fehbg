@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --bg-scale '/home/albert/Pictures/walls/xmonadTrees.jpg' 
+feh --no-fehbg --bg-scale '/home/albert/Pictures/walls/xmonadTrees.jpg' 

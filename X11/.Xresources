@@ -27,7 +27,8 @@ URxvt.buffered: true
 URxvt.cursorBlink:true
 URxvt.pointerBlank:true
 URxvt.letterSpace: -1
-URxvt.font: xft:Monoid Nerd Font Mono:style=Regular:pixelsize=12:antialias=true
+! URxvt.font: xft:Monoid Nerd Font Mono:style=Regular:pixelsize=11:antialias=true
+URxvt.font: xft:Hasklig:style=Regular:pixelsize=14:antialias=true
 !,xft:Monoisome:pixelsize=14:antialias=true
 !,\
 ! xft:Monoisome:style=Regular:size=10
@@ -65,27 +66,47 @@ URxvt.iso14755: false
 
 
 ! black, red, green, yellow, blue, purple, blue, white
-*.color0:      #2c2c2c
-*.color1:      #c62828
-!*.color2:      #558b2e
-!*.color2:      #259e83
-*.color2:      #50b19b
-*.color3:      #f9a825
-! *.color4:      #1565c1
-*.color4:      #2c74c7
-! *.color5:      #9a1e9a
-*.color5:      #a434a4
-*.color6:      #00838f
-*.color7:      #ffffff
+! *.color0:      #2c2c2c
+! *.color1:      #c62828
+! !*.color2:      #558b2e
+! !*.color2:      #259e83
+! *.color2:      #50b19b
+! *.color3:      #f9a825
+! ! *.color4:      #1565c1
+! *.color4:      #2c74c7
+! ! *.color5:      #9a1e9a
+! *.color5:      #a434a4
+! *.color6:      #00838f
+! *.color7:      #ffffff
 
-*.color8:      #969694
-*.color9:      #f15250
-*.color10:     #86bd47
-*.color11:     #f8e63a
-*.color12:     #77b2f6
-*.color13:     #b963c8
-*.color14:     #25c3dc
-*.color15:     #ffffff
+! *.color8:      #969694
+! *.color9:      #f15250
+! *.color10:     #86bd47
+! *.color11:     #f8e63a
+! *.color12:     #77b2f6
+! *.color13:     #b963c8
+! *.color14:     #25c3dc
+! *.color15:     #ffffff
 
+!normal
+*.color0:   #282828
+*.color1:   #d71a1a
+*.color2:   #57ba37
+*.color3:   #f0d50c
+!  *.color4:   #91aadf
+*.color4:   #2c74c7
+*.color5:   #cf73e6
+*.color6:   #b7cbf4
+*.color7:   #dedede
+
+! bright
+*.color8:   #666666
+*.color9:   #ff0000
+*.color10:  #d8fa3b
+*.color11:  #e7c547
+*.color12:  #b7cbf4
+*.color13:  #b77ee0
+*.color14:  #a9c1de
+*.color15:  #eeeeee
 
 ! vim: nospell

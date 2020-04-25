@@ -18,25 +18,24 @@ feh --bg-scale ~/Pictures/walls/xmonadTrees.jpg
 
 xsetroot -cursor_name arrow
 setxkbmap -layout us,es -option 'grp:alt_shift_toggle' 
-xmodmap ~/scripts/capslock-ctrl.zsh
+xmodmap ~/.Xmodmap
 # xscreensaver -no-splash &
+# urxvtc -q -o -f &
 synclient TouchpadOff=1
 
-/usr/lib/notification-daemon-1.0/notification-daemon &
+dunst > /dev/null 2>&1 &
 
-compton &
+udiskie -t -A -n &
 
-if [ -x /usr/bin/nm-applet ]; then
-  nm-applet --sm-disable &
-fi
+picom &
 
-if [ -x /usr/bin/xfce4-power-manager ]; then
-  bash -c 'sleep 3; xfce4-power-manager &' &
-fi
+[ -x /usr/bin/nm-applet ] && nm-applet --sm-disable &
+
+[ -x /usr/bin/xfce4-power-manager ] bash -c 'sleep 3; xfce4-power-manager &' &
 
 [ ! -s ~/.config/mpd/pid ] && mpd
 
-conky -c ~/.config/conky/config.conf &
+# conky -c ~/.config/conky/config.conf &
 
 
 exec xmonad

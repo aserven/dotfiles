@@ -2,12 +2,13 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH="/home/albert/.oh-my-zsh"
+export ZSH="/home/albert/.oh-my-zsh"
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="lambda-mod"
+# ZSH_THEME="lambda-mod"
+ZSH_THEME="powerlevel10k/powerlevel10k"
 
 # Set list of themes to load
 # Setting this variable when ZSH_THEME=random
@@ -61,6 +62,8 @@ DISABLE_AUTO_UPDATE="true"
 plugins=(
   git
   history
+  sudo
+  z
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -97,16 +100,45 @@ source $ZSH/oh-my-zsh.sh
 USER_LOCAL="${HOME}/.local"
 LATEX_PREVIEW="${HOME}/.local/share/nvim/plugged/vim-live-latex-preview"
 NPM_PACKAGES="${HOME}/.npm-packages"
-PATH="$USER_LOCAL/bin:$LATEX_PREVIEW/bin:$NPM_PACKAGES/bin:$PATH"
+CARGO_PATH="/home/albert/.cargo"
+PATH="$USER_LOCAL/bin:$LATEX_PREVIEW/bin:$NPM_PACKAGES/bin:$CARGO_PATH/bin:$PATH"
 
 
 alias pacman="pacman --color auto"
+alias aurman="aurman --color auto"
 alias open="xdg-open"
 alias vi="nvim"
 alias vim="nvim"
-
+alias ls=lsd
+alias df=dfc
+alias cat=bat
 
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
+source ~/.nix-profile/etc/profile.d/nix.sh
+
+_has() {
+  return $( whence $1 >/dev/null )
+}
+
+if [ -e /usr/share/fzf/completion.zsh ]; then
+    source /usr/share/fzf/key-bindings.zsh
+    source /usr/share/fzf/completion.zsh
+fi
+
+if _has fzf && _has ag; then
+    export FZF_DEFAULT_COMMAND='ag --nocolor -g ""'
+    export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
+    export FZF_ALT_C_COMMAND="$FZF_DEFAULT_COMMAND"
+    export FZF_DEFAULT_OPTS='
+      --color fg:242,bg:236,hl:65,fg+:15,bg+:239,hl+:108
+      --color info:108,prompt:109,spinner:108,pointer:168,marker:168
+    '
+fi
+
 fortune | cowsay | lolcat
+echo
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
